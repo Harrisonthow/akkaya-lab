@@ -4,8 +4,7 @@ title: Home
 
 # In immune system we trust!
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+The Akkaya Lab is located at the Ohio State University and in split into two groups: The B-Cell side run by [Dr. Munir Akkaya](members/munir.html), and the T-Cell side run by [Dr. Billur Akkaya](members/billur.html).
 
 {%
   include link.html
