@@ -6,6 +6,7 @@ role: pi
 aliases:
   - B. Akkaya
   - B Akkaya
+  - Billur Akkaya
 links:
   orcid: 0000-0002-6808-3776
   email: akkaya.10@osu.edu

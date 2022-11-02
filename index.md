@@ -8,17 +8,17 @@ The Akkaya Lab is located at the Ohio State University and in split into two gro
 
 {%
   include link.html
-  type="github"
+  type="link"
   icon=""
-  text="See the template on GitHub"
+  text="Current B-Cell Projects"
   link="greenelab/lab-website-template"
   style="button"
 %}
 {%
   include link.html
-  type="docs"
+  type="link"
   icon=""
-  text="See the documentation"
+  text="Current T-Cell Projects"
   link="https://github.com/greenelab/lab-website-template/wiki"
   style="button"
 %}

@@ -6,6 +6,7 @@ role: pi
 aliases:
   - M. Akkaya
   - M Akkaya
+  - Munir Akkaya
 links:
   orcid: 0000-0002-9949-9424
   email: akkaya.9@osu.edu
