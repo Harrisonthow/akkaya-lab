@@ -1,6 +1,6 @@
 ---
 name: Esin Bayralı Ulker
-image: images/meryem.jpg
+image: images/esin.jpg
 description: Research Assistant
 role: bcell
 aliases:
