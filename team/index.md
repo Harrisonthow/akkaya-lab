@@ -5,7 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-# <<i class="fas fa-microscope"></i>Principal Investigators
+# <i class="fas fa-microscope"></i>Principal Investigators
 
 Akkaya Lab studies adaptive immunity and immunoregulation in the context of autoimmune diseases and cancer and is composed of two research groups led by Drs. Billur Akkaya and Munir Akkaya.
 
@@ -17,14 +17,14 @@ Akkaya Lab studies adaptive immunity and immunoregulation in the context of auto
   component="portrait"
   filters="role: pi"
 %}
-# <<i class="fas fa-users">></i>Research Assistants | B-Cell Side
+# <i class="fas fa-users"></i>Research Assistants | B-Cell Side
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: bcell"
 %}
-# <<i class="fas fa-users">></i>Research Assistants | T-Cell Side
+# <i class="fas fa-users"></i>Research Assistants | T-Cell Side
 {%
   include list.html
   data="members"
