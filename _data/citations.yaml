@@ -10,8 +10,315 @@
   publisher: Nature Reviews Immunology
   date: '2019-12-13'
   link: https://doi.org/gghcs6
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41577-019-0244-2/MediaObjects/41577_2019_244_Fig1_HTML.png?as=webp
-  tags:
-  - bcell
-  - immunology
-  _cache: 2fae86f4eb99fea5bc1ccc2411aecb2bc16b4d8ecf8b64d0200c095cdf195628
+  _cache: 5c251c0d844bf9537e8ade548944e3e8bbc09faa525b1fcb9c9042dd62d5af85
+- id: doi:10.1126/sciadv.aaw6957
+  title: "A single-nucleotide polymorphism in a\n            <i>Plasmodium berghei</i>\n\
+    \            ApiAP2 transcription factor alters the development of host immunity"
+  authors:
+  - Munir Akkaya
+  - Abhisheka Bansal
+  - Patrick W. Sheehan
+  - Mirna Pena
+  - Alvaro Molina-Cruz
+  - Lindsey M. Orchard
+  - Clare K. Cimperman
+  - Chen-Feng Qi
+  - Philipp Ross
+  - Takele Yazew
+  - Daniel Sturdevant
+  - Sarah L. Anzick
+  - Girija Thiruvengadam
+  - Thomas Dan Otto
+  - Oliver Billker
+  - "Manuel Llin\xE1s"
+  - Louis H. Miller
+  - Susan K. Pierce
+  publisher: Science Advances
+  date: '2020-02-07'
+  link: https://doi.org/gjd4s4
+  _cache: 8e29935602fc29c19cdf72cc10f12f15db651c915b493fa44f880a5e4e8c3697
+- id: doi:10.1038/s41590-019-0427-9
+  title: B cell signaling in context
+  authors:
+  - Kihyuck Kwak
+  - Munir Akkaya
+  - Susan K. Pierce
+  publisher: Nature Immunology
+  date: '2019-07-08'
+  link: https://doi.org/gq544x
+  _cache: dc415ced3a8a1496de9c92a2c5e87ca3873e813820dea15f976f26ede36fdab6
+- id: doi:10.1016/j.coi.2018.09.019
+  title: 'From zero to sixty and back to zero again: the metabolic life of B cells'
+  authors:
+  - Munir Akkaya
+  - Susan K Pierce
+  publisher: Current Opinion in Immunology
+  date: '2019-04-01'
+  link: https://doi.org/gq544z
+  _cache: 2609e1012a92dcf4bdac932ad9131ebcf4e48d91a4796e6bc5ce162fb94432b1
+- id: doi:10.1038/s41590-018-0280-2
+  title: "Regulatory T cells mediate specific suppression by depleting peptide\u2013\
+    MHC class II from dendritic cells"
+  authors:
+  - Billur Akkaya
+  - Yoshihiro Oya
+  - Munir Akkaya
+  - Jafar Al Souz
+  - Amanda H. Holstein
+  - Olena Kamenyeva
+  - Juraj Kabat
+  - Ryutaro Matsumura
+  - David W. Dorward
+  - Deborah D. Glass
+  - Ethan M. Shevach
+  publisher: Nature Immunology
+  date: '2019-01-14'
+  link: https://doi.org/gpwjvp
+  _cache: 0cd457aadadc913ca6f917477852e5c6a6c6db0416cd9d6880e4f837207432a8
+- id: doi:10.1038/s41590-018-0156-5
+  title: Second signals rescue B cells from activation-induced mitochondrial dysfunction
+    and death
+  authors:
+  - Munir Akkaya
+  - Javier Traba
+  - Alexander S. Roesler
+  - Pietro Miozzo
+  - Billur Akkaya
+  - Brandon P. Theall
+  - Haewon Sohn
+  - Mirna Pena
+  - Margery Smelkinson
+  - Juraj Kabat
+  - Eric Dahlstrom
+  - David W. Dorward
+  - Jeff Skinner
+  - Michael N. Sack
+  - Susan K. Pierce
+  publisher: Nature Immunology
+  date: '2018-07-09'
+  link: https://doi.org/gdzhfc
+  _cache: 0d5a6d3550712a925862b1d02f3130bf2d81e31b6b51029b6d44658c51d991ea
+- id: doi:10.1038/s41590-018-0052-z
+  title: Toll-like receptor 9 antagonizes antibody affinity maturation
+  authors:
+  - Munir Akkaya
+  - Billur Akkaya
+  - Ann S. Kim
+  - Pietro Miozzo
+  - Haewon Sohn
+  - Mirna Pena
+  - Alexander S. Roesler
+  - Brandon P. Theall
+  - Travis Henke
+  - Juraj Kabat
+  - Jinghua Lu
+  - David W. Dorward
+  - Eric Dahlstrom
+  - Jeff Skinner
+  - Louis H. Miller
+  - Susan K. Pierce
+  publisher: Nature Immunology
+  date: '2018-02-23'
+  link: https://doi.org/gc7xs3
+  _cache: 5500d6d4d1fd859222face28107ed079eff6a79db8a4b8ee979b23a781a071b5
+- id: doi:10.1002/eji.201747113
+  title: T cell-dependent antigen adjuvanted with DOTAP-CpG-B but not DOTAP-CpG-A
+    induces robust germinal center responses and high affinity antibodies in mice
+  authors:
+  - Munir Akkaya
+  - Billur Akkaya
+  - Patrick W. Sheehan
+  - Pietro Miozzo
+  - Mirna Pena
+  - Chen-Feng Qi
+  - Javier Manzella-Lapeira
+  - Silvia Bolland
+  - Susan K. Pierce
+  publisher: European Journal of Immunology
+  date: '2017-08-21'
+  link: https://doi.org/gq5442
+  _cache: 38708a3ce48368e192e5e443627fd72ccd2249272bc4e8a74710192ab9326b06
+- id: doi:10.4049/jimmunol.1700348
+  title: B Cells Produce Type 1 IFNs in Response to the TLR9 Agonist CpG-A Conjugated
+    to Cationic Lipids
+  authors:
+  - Munir Akkaya
+  - Billur Akkaya
+  - Pietro Miozzo
+  - Mukul Rawat
+  - Mirna Pena
+  - Patrick W. Sheehan
+  - Ann S. Kim
+  - Olena Kamenyeva
+  - Juraj Kabat
+  - Silvia Bolland
+  - Akanksha Chaturvedi
+  - Susan K. Pierce
+  publisher: The Journal of Immunology
+  date: '2017-06-26'
+  link: https://doi.org/gbq8wj
+  _cache: 811d36e549d5da8dbde1ea7e1bf563d5134ba813aac8928a1c2c4a946d790de4
+- id: doi:10.1016/j.jim.2016.11.013
+  title: 'Ex-vivo iTreg differentiation revisited: Convenient alternatives to existing
+    strategies'
+  authors:
+  - Billur Akkaya
+  - Amanda H. Holstein
+  - Christopher Isaac
+  - Mitra P. Maz
+  - Deborah D. Glass
+  - Ethan M. Shevach
+  - Munir Akkaya
+  publisher: Journal of Immunological Methods
+  date: '2017-02-01'
+  link: https://doi.org/gq5443
+  _cache: 695f1dadb9f440441f58cec488d14ac10ff09f602665f5c6fb13ac0aac8624d3
+- id: doi:10.1099/jgv.0.000335
+  title: Herpesvirus orthologues of CD200 bind host CD200R but not related activating
+    receptors
+  authors:
+  - Lai Shan Kwong
+  - Munir Akkaya
+  - A. Neil Barclay
+  - Deborah Hatherley
+  publisher: Journal of General Virology
+  date: '2016-01-01'
+  link: https://doi.org/f8dsvb
+  _cache: cddae2308868e44696703e0ccfb4f659d352211a461e62789db8cc546ee40ad2
+- id: doi:10.4049/jimmunol.1600491
+  title: "The Regulation of Inherently Autoreactive VH4-34\u2013Expressing B Cells\
+    \ in Individuals Living in a Malaria-Endemic Area of West Africa"
+  authors:
+  - Geoffrey T. Hart
+  - Munir Akkaya
+  - Asiya S. Chida
+  - Chungwen Wei
+  - Scott A. Jenks
+  - Christopher Tipton
+  - Chenfeng He
+  - Ben S. Wendel
+  - Jeff Skinner
+  - Gunjan Arora
+  - Kassoum Kayentao
+  - Aissata Ongoiba
+  - Ogobara Doumbo
+  - Boubacar Traore
+  - David L. Narum
+  - Ning Jiang
+  - Peter D. Crompton
+  - Ignacio Sanz
+  - Susan K. Pierce
+  publisher: The Journal of Immunology
+  date: '2016-10-19'
+  link: https://doi.org/f9fbw4
+  _cache: 15a62a741fa1813b7d4d83fbb980abcafbffba553ecb0328ab351b784518d4c2
+- id: doi:10.4049/jimmunol.1600727
+  title: A Simple, Versatile Antibody-Based Barcoding Method for Flow Cytometry
+  authors:
+  - Billur Akkaya
+  - Pietro Miozzo
+  - Amanda H. Holstein
+  - Ethan M. Shevach
+  - Susan K. Pierce
+  - Munir Akkaya
+  publisher: The Journal of Immunology
+  date: '2016-07-20'
+  link: https://doi.org/f86z79
+  _cache: c1d8c6ae83c7037dec2dd8becf9cf13d235f1143f9b215d7c9eab5b75d6ba605
+- id: doi:10.1016/j.virol.2015.10.026
+  title: Rabbit CD200R binds host CD200 but not CD200-like proteins from poxviruses
+  authors:
+  - Munir Akkaya
+  - Lai-Shan Kwong
+  - Erdem Akkaya
+  - Deborah Hatherley
+  - A. Neil Barclay
+  publisher: Virology
+  date: '2016-01-01'
+  link: https://doi.org/f8bdhr
+  _cache: 3e2d2e0d26d1a2e1f1a07e1edcfd0743c356da3b5639779c493d99716a52f8b0
+- id: doi:10.1128/mBio.00725-15
+  title: Inhibiting the Mammalian Target of Rapamycin Blocks the Development of Experimental
+    Cerebral Malaria
+  authors:
+  - Emile B. Gordon
+  - Geoffrey T. Hart
+  - Tuan M. Tran
+  - Michael Waisberg
+  - Munir Akkaya
+  - Jeff Skinner
+  - "Severin Zin\xF6cker"
+  - Mirna Pena
+  - Takele Yazew
+  - Chen-Feng Qi
+  - Louis H. Miller
+  - Susan K. Pierce
+  publisher: mBio
+  date: '2015-07-01'
+  link: https://doi.org/gq5445
+  _cache: 2c24e0fb4c3060100e7355e6504b269360cc7df0b512f353fd4755cadf7aeb5a
+- id: doi:10.1073/pnas.1516544112
+  title: Targeting glutamine metabolism rescues mice from late-stage cerebral malaria
+  authors:
+  - Emile B. Gordon
+  - Geoffrey T. Hart
+  - Tuan M. Tran
+  - Michael Waisberg
+  - Munir Akkaya
+  - Ann S. Kim
+  - Sara E. Hamilton
+  - Mirna Pena
+  - Takele Yazew
+  - Chen-Feng Qi
+  - Chen-Fang Lee
+  - Ying-Chun Lo
+  - Louis H. Miller
+  - Jonathan D. Powell
+  - Susan K. Pierce
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2015-10-05'
+  link: https://doi.org/f7vrmk
+  _cache: df9769151681c6df3394f395881b7e924cc732bac33694734bd19bcee5398dc9
+- id: doi:10.1371/journal.pone.0063325
+  title: Dissection of Agonistic and Blocking Effects of CD200 Receptor Antibodies
+  authors:
+  - Munir Akkaya
+  - Marie-Laure Aknin
+  - Billur Akkaya
+  - A. Neil Barclay
+  publisher: PLoS ONE
+  date: '2013-05-14'
+  link: https://doi.org/f4w38t
+  _cache: 016b15c6110fc407a199d4dfa477abb606f0cf856bf82f1fc474fc594fd5dd6f
+- id: doi:10.1002/eji.201242896
+  title: How do pathogens drive the evolution of paired receptors?
+  authors:
+  - Munir Akkaya
+  - A. Neil Barclay
+  publisher: European Journal of Immunology
+  date: '2013-02-01'
+  link: https://doi.org/f2dz5k
+  _cache: 0cc7606a38be09fc8f0388b51714930b02f4e415f5556b23061eeaef21f17b0d
+- id: doi:10.1007/s00251-009-0415-6
+  title: Heterogeneity in the CD200R paired receptor family
+  authors:
+  - Munir Akkaya
+  - A. Neil Barclay
+  publisher: Immunogenetics
+  date: '2009-12-05'
+  link: https://doi.org/c226ff
+  _cache: 2236015807581567f80c0446f00446ea4c0ba45ae0ead22aaba91936d0e21584
+- id: doi:10.1007/s10616-009-9241-9
+  title: Transfection of myeloid leukaemia cell lines is distinctively regulated by
+    fibronectin substratum
+  authors:
+  - Gunes Esendagli
+  - Hande Canpinar
+  - A. Lale Dogan
+  - Munir Akkaya
+  - Emin Kansu
+  - Dicle Guc
+  publisher: Cytotechnology
+  date: '2009-11-01'
+  link: https://doi.org/d2tx8q
+  _cache: 96ea6c4504e9cd08ca696ade0e191d63e1dace7f928d6eba3343b708c1ca1af6
