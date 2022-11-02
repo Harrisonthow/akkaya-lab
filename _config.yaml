@@ -23,7 +23,7 @@ links:
 auto-cite:
   plugins:
     - name: orcid
-    input:
+      input:
         - ../_data/orcid.yaml
     - name: sources
       input:
