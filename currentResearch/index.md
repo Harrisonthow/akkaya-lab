@@ -2,7 +2,7 @@
 title: Current Research
 description: Current Research Projects in the Akkaya Lab
 nav:
-  order: 5
+  order: 6
   tooltip: Current Research
 ---
 
