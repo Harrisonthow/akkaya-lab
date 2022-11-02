@@ -1,0 +1,8 @@
+# a source
+- id: doi:10.1038/s41577-019-0244-2
+  # extra "rich" details that the template can display nicely (can't be filled in by Manubot)
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41577-019-0244-2/MediaObjects/41577_2019_244_Fig1_HTML.png?as=webp
+  tags:
+    - bcell
+    - immunology
+
