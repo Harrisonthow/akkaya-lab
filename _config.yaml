@@ -1,8 +1,8 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Akkaya Lab
+description: In Immune System We Trust!
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
@@ -22,6 +22,9 @@ links:
 # automatic citations
 auto-cite:
   plugins:
+    - name: orcid
+    input:
+       - ../_data/orcid.yaml
     - name: sources
       input:
         - ../_data/sources.yaml
