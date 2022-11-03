@@ -322,3 +322,90 @@
   date: '2009-11-01'
   link: https://doi.org/d2tx8q
   _cache: 96ea6c4504e9cd08ca696ade0e191d63e1dace7f928d6eba3343b708c1ca1af6
+- id: doi:10.1016/j.cellimm.2020.104160
+  title: 'Regulatory T cells: Master thieves of the immune system'
+  authors:
+  - Billur Akkaya
+  - Ethan M. Shevach
+  publisher: Cellular Immunology
+  date: '2020-09-01'
+  link: https://doi.org/gq6bbm
+  _cache: 8520e0e3f2c81993a2a49b42d652008f5de512dbaaa575ca620fa8cebbccfd87
+- id: doi:10.4049/jimmunol.1800753
+  title: Increased Mitochondrial Biogenesis and Reactive Oxygen Species Production
+    Accompany Prolonged CD4<sup>+</sup> T Cell Activation
+  authors:
+  - Billur Akkaya
+  - Alexander S. Roesler
+  - Pietro Miozzo
+  - Brandon P. Theall
+  - Jafar Al Souz
+  - Margery G. Smelkinson
+  - Juraj Kabat
+  - Javier Traba
+  - Michael N. Sack
+  - Joseph A. Brzostowski
+  - Mirna Pena
+  - David W. Dorward
+  - Susan K. Pierce
+  - Munir Akkaya
+  publisher: The Journal of Immunology
+  date: '2018-10-29'
+  link: https://doi.org/gfp4kx
+  _cache: 87c048d1853f6056231d6b855e1bb487ba9120ec416cb63c670695b8a47992b6
+- id: doi:10.1002/eji.201747113
+  title: T cell-dependent antigen adjuvanted with DOTAP-CpG-B but not DOTAP-CpG-A
+    induces robust germinal center responses and high affinity antibodies in mice
+  authors:
+  - Munir Akkaya
+  - Billur Akkaya
+  - Patrick W. Sheehan
+  - Pietro Miozzo
+  - Mirna Pena
+  - Chen-Feng Qi
+  - Javier Manzella-Lapeira
+  - Silvia Bolland
+  - Susan K. Pierce
+  publisher: European Journal of Immunology
+  date: '2017-08-21'
+  link: https://doi.org/gq5442
+  _cache: 38708a3ce48368e192e5e443627fd72ccd2249272bc4e8a74710192ab9326b06
+- id: doi:10.1016/j.jim.2016.11.013
+  title: 'Ex-vivo iTreg differentiation revisited: Convenient alternatives to existing
+    strategies'
+  authors:
+  - Billur Akkaya
+  - Amanda H. Holstein
+  - Christopher Isaac
+  - Mitra P. Maz
+  - Deborah D. Glass
+  - Ethan M. Shevach
+  - Munir Akkaya
+  publisher: Journal of Immunological Methods
+  date: '2017-02-01'
+  link: https://doi.org/gq5443
+  _cache: 695f1dadb9f440441f58cec488d14ac10ff09f602665f5c6fb13ac0aac8624d3
+- id: doi:10.3791/54918
+  title: An Optimized Protocol to Analyze Glycolysis and Mitochondrial Respiration
+    in Lymphocytes
+  authors:
+  - Javier Traba
+  - Pietro Miozzo
+  - Billur Akkaya
+  - Susan K. Pierce
+  - Munir Akkaya
+  publisher: Journal of Visualized Experiments
+  date: '2016-11-21'
+  link: https://doi.org/gqpxk7
+  _cache: 5c13587bb6645983c530607f668eb2028575dfc639a3d84d9f4c37eedb659c26
+- id: doi:10.1371/journal.pone.0063325
+  title: Dissection of Agonistic and Blocking Effects of CD200 Receptor Antibodies
+  authors:
+  - Munir Akkaya
+  - Marie-Laure Aknin
+  - Billur Akkaya
+  - A. Neil Barclay
+  publisher: PLoS ONE
+  date: '2013-05-14'
+  link: https://doi.org/f4w38t
+  _cache: 016b15c6110fc407a199d4dfa477abb606f0cf856bf82f1fc474fc594fd5dd6f
