@@ -19,12 +19,8 @@ nav:
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
-<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/mnr_akk?ref_src=twsrc%5Etfw">Tweets by Dr. Munir Akkaya</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{:.left}
-<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/billurakka?ref_src=twsrc%5Etfw">Tweets by Dr. Billur Akkaya</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{:.right}
+<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/akkayalab?ref_src=twsrc%5Etfw">Tweets from the Akkaya Lab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{:.center}
 
-<a href="https://twitter.com/mnr_akk?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @GreeneScientist</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{:.left}
-<a href="https://twitter.com/billurakka?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @GreeneScientist</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{:.right}
+<a href="https://twitter.com/akkayalab?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @akkayalab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{:.center}
