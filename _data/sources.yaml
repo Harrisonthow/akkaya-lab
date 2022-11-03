@@ -1,6 +1,16 @@
 # a source
 - id: doi:10.1038/s41577-019-0244-2
+  image: https://www.frontiersin.org/files/Articles/940052/fimmu-13-940052-HTML-r1/image_m/fimmu-13-940052-g001.jpg
+  tags:
+    - T-Cells
+    - Tumor
+    - Immunotherapy
 - id: doi:10.1126/sciadv.aaw6957
+  image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-1-0716-1402-0_13/MediaObjects/475400_1_En_13_Fig8_HTML.jpg?as=webp
+  tags:
+    - T-Cells
+    - Dendritic Cell
+    - Intravital Microscopy
 - id: doi:10.1038/s41590-019-0427-9
 - id: doi:10.1016/j.coi.2018.09.019
 - id: doi:10.1038/s41590-018-0280-2
