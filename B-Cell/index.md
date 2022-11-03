@@ -1,5 +1,5 @@
 ---
-title: Current B-Cell Research
+title: B-Cell Projects
 description: Current B-Cell Projects in the Akkaya Lab
 nav:
   order: 7

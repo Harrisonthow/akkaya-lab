@@ -1,5 +1,5 @@
 ---
-title: Current T-Cell Research
+title: T-Cell Research
 description: Current T-Cell Projects in the Akkaya Lab
 nav:
   order: 8

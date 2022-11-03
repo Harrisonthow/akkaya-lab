@@ -11,7 +11,7 @@ The Akkaya Lab is located at the Ohio State University and in split into two gro
   type="link"
   icon=""
   text="Current B-Cell Projects"
-  link="greenelab/lab-website-template"
+  link="/b-cell"
   style="button"
 %}
 {%
@@ -19,7 +19,7 @@ The Akkaya Lab is located at the Ohio State University and in split into two gro
   type="link"
   icon=""
   text="Current T-Cell Projects"
-  link="https://github.com/greenelab/lab-website-template/wiki"
+  link="/t-cell"
   style="button"
 %}
 {:.center}
@@ -33,13 +33,12 @@ The Akkaya Lab is located at the Ohio State University and in split into two gro
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Vaccines have had the greatest impact on human health of all interventions. All vaccines currently in use depend on their ability to induce B cells to make high affinity long-lived antibody responses. Thus, understanding the mechanisms underlying B cell activation will clearly benefit vaccine design and development. Main focus of the research led by Munir Akkaya is to investigate the role of pathogen associated molecular patterns in B cell fate decision and identifying effector mechanisms such as cytokines and transcription factors which might drive the activation induced changes in B cell metabolism and differentiation.
 
 {%
   include link.html
-  link="research"
-  text="See what we've published"
+  link="/b-cell"
+  text="Learn More"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -49,19 +48,18 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  link="/b-cell"
+  title="B-Cell Side"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Autoimmune disorders and cancer are among leading causes of chronic disease and death in the US and worldwide. While Regulatory T cells (Tregs) are central to protecting body from autoimmunity, they can also promote tumor progression via restricting anti-tumor immune responses. These make Tregs an attractive, yet a risky, target for treating both ends of the spectrum, therefore we need a thorough understanding of how they mediate their inhibitory functions. Main focus of the research led by Billur Akkaya is elucidating the molecular machinery underlying interactions of Tregs with antigen presenting cells in the context of autoimmunity and cancer to reveal new specific targets for precision therapies.
 
 {%
   include link.html
-  link="tools"
-  text="Browse our tools"
+  link="/t-cell"
+  text="Learn More"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -71,8 +69,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {%
   include feature.html
   image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
+  link="/t-cell"
+  title="T-Cell Side"
   flip=true
   text=text
 %}
