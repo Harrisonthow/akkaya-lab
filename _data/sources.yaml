@@ -1,16 +1,11 @@
 # a source
-- id: doi:10.1038/s41577-019-0244-2
-  image: https://www.frontiersin.org/files/Articles/940052/fimmu-13-940052-HTML-r1/image_m/fimmu-13-940052-g001.jpg
-  tags:
-    - T-Cells
-    - Tumor
-    - Immunotherapy
+- id: doi:10.1038/s41577-019-0244-2 #B cell memory: building two walls of protection against pathogens
+ tags:
+    - B-Cells
+    - Memory
+    - Infectious Disease
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41577-019-0244-2/MediaObjects/41577_2019_244_Fig1_HTML.png?as=webp
 - id: doi:10.1126/sciadv.aaw6957
-  image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-1-0716-1402-0_13/MediaObjects/475400_1_En_13_Fig8_HTML.jpg?as=webp
-  tags:
-    - T-Cells
-    - Dendritic Cell
-    - Intravital Microscopy
 - id: doi:10.1038/s41590-019-0427-9
 - id: doi:10.1016/j.coi.2018.09.019
 - id: doi:10.1038/s41590-018-0280-2
@@ -30,10 +25,47 @@
 - id: doi:10.1007/s00251-009-0415-6
 - id: doi:10.1007/s10616-009-9241-9
 - id: doi:10.1016/j.cellimm.2020.104160
-- id: doi:10.4049/jimmunol.1800753
-- id: doi:10.1002/eji.201747113
-- id: doi:10.1016/j.jim.2016.11.013
-- id: doi:10.3791/54918
-- id: doi:10.1371/journal.pone.0063325
-- id: doi:10.3389/FIMMU.2022.940052
-- id: doi:10.1007/978-1-0716-1402-0_13
+- id: doi:10.4049/jimmunol.1800753 #Increased Mitochondrial Biogenesis and Reactive Oxygen Species Production Accompany Prolonged CD4+ T Cell Activation
+ tags:
+    - Mitochondria
+    - CD4
+    - T-Cells
+  image: https://www.jimmunol.org/content/jimmunol/201/11/3294/F1.medium.gif
+- id: doi:10.1002/eji.201747113 #T cell-dependent antigen adjuvanted with DOTAP-CpG-B but not DOTAP-CpG-A induces robust germinal center responses and high affinity antibodies in mice
+  tags:
+    - CpG
+    - Infectious Disease
+    - T-Cells
+  image: https://onlinelibrary.wiley.com/cms/asset/27978807-28e1-4e84-be85-0c9700b90657/eji4015-fig-0002-m.jpg
+- id: doi:10.1016/j.jim.2016.11.013 #Ex-vivo iTreg differentiation revisited: Convenient alternatives to existing strategies
+  tags:
+    - CD4
+    - TReg
+    - T-Cells
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0022175916302964-gr1.jpg
+- id: doi:10.3791/54918 #An Optimized Protocol to Analyze Glycolysis and Mitochondrial Respiration in Lymphocytes
+  image: https://cloudfront.jove.com/files/ftp_upload/54918/54918fig1.jpg
+  tags:
+    - Glycolysis
+    - Mitochondira
+    - B-Cells
+    - T-Cells
+- id: doi:10.1371/journal.pone.0063325 #Dissection of Agonistic and Blocking Effects of CD200 Receptor Antibodies
+  image: https://journals.plos.org/plosone/article/figure/image?size=inline&id=10.1371/journal.pone.0063325.g001
+  tags:
+    - Antibodies
+    - CD200 Receptor
+    - B-Cells
+    - T-Cells
+- id: doi:10.3389/FIMMU.2022.940052 #exhaust the exhausters
+  image: https://www.frontiersin.org/files/Articles/940052/fimmu-13-940052-HTML-r1/image_m/fimmu-13-940052-g001.jpg
+  tags:
+    - T-Cells
+    - Tumor
+    - Immunotherapy
+- id: doi:10.1007/978-1-0716-1402-0_13 #Visualising Dynamics
+  image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-1-0716-1402-0_13/MediaObjects/475400_1_En_13_Fig8_HTML.jpg?as=webp
+  tags:
+    - T-Cells
+    - Dendritic Cell
+    - Intravital Microscopy
