@@ -17,6 +17,9 @@ Akkaya Lab studies adaptive immunity and immunoregulation in the context of auto
   component="portrait"
   filters="role: pi"
 %}
+
+{% include section.html %}
+
 # <i class="fas fa-users"></i>Research Assistants | B-Cell Side
 {%
   include list.html
@@ -24,6 +27,9 @@ Akkaya Lab studies adaptive immunity and immunoregulation in the context of auto
   component="portrait"
   filters="group: bcell"
 %}
+
+{% include section.html %}
+
 # <i class="fas fa-users"></i>Research Assistants | T-Cell Side
 {%
   include list.html
