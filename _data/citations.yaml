@@ -409,3 +409,24 @@
   date: '2013-05-14'
   link: https://doi.org/f4w38t
   _cache: 016b15c6110fc407a199d4dfa477abb606f0cf856bf82f1fc474fc594fd5dd6f
+- id: doi:10.3389/FIMMU.2022.940052
+  title: 'Exhaust the exhausters: Targeting regulatory T cells in the tumor microenvironment'
+  authors:
+  - Bayley R. McRitchie
+  - Billur Akkaya
+  publisher: Frontiers in Immunology
+  date: '2022-09-30'
+  link: https://doi.org/gq6hgr
+  _cache: 3e5dbac7bb6508a66a4754bf611cf827246416c126afb93bb48e6eac178625c6
+- id: doi:10.1007/978-1-0716-1402-0_13
+  title: "Visualizing the Dynamics of T Cell\u2013Dendritic Cell Interactions in Intact\
+    \ Lymph Nodes by Multiphoton Confocal Microscopy"
+  authors:
+  - Billur Akkaya
+  - Olena Kamenyeva
+  - Juraj Kabat
+  - Ryan Kissinger
+  publisher: Confocal Microscopy
+  date: '2021-01-01'
+  link: https://doi.org/gq6hgs
+  _cache: d91567fcbb4f7ff5ffbca75588687158fd25abe6633e202886b9a153f5dd29e7
