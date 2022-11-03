@@ -2,7 +2,8 @@
 name: Şöhret Meryem Gökçek
 image: images/meryem.jpg
 description: Research Assistant
-role: bcell
+group: bcell
+role: phd
 aliases:
   - S. Gokcek
   - S Gokcek
