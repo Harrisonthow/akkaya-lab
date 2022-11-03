@@ -10,7 +10,12 @@
   publisher: Nature Reviews Immunology
   date: '2019-12-13'
   link: https://doi.org/gghcs6
-  _cache: 5c251c0d844bf9537e8ade548944e3e8bbc09faa525b1fcb9c9042dd62d5af85
+  image: https://www.frontiersin.org/files/Articles/940052/fimmu-13-940052-HTML-r1/image_m/fimmu-13-940052-g001.jpg
+  tags:
+  - T-Cells
+  - Tumor
+  - Immunotherapy
+  _cache: c8436c390be79a8f8d3e61c1020917110da7d45477b5a5a1f42b31af26f88a60
 - id: doi:10.1126/sciadv.aaw6957
   title: "A single-nucleotide polymorphism in a\n            <i>Plasmodium berghei</i>\n\
     \            ApiAP2 transcription factor alters the development of host immunity"
@@ -36,7 +41,12 @@
   publisher: Science Advances
   date: '2020-02-07'
   link: https://doi.org/gjd4s4
-  _cache: 8e29935602fc29c19cdf72cc10f12f15db651c915b493fa44f880a5e4e8c3697
+  image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-1-0716-1402-0_13/MediaObjects/475400_1_En_13_Fig8_HTML.jpg?as=webp
+  tags:
+  - T-Cells
+  - Dendritic Cell
+  - Intravital Microscopy
+  _cache: bf1c35383c1b5a5c219419f2f66d8b0b79cb983f1873a23e21816f70d967167a
 - id: doi:10.1038/s41590-019-0427-9
   title: B cell signaling in context
   authors:
