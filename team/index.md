@@ -37,6 +37,16 @@ Akkaya Lab studies adaptive immunity and immunoregulation in the context of auto
   component="portrait"
   filters="role: tcell"
 %}
+# <i class="fas fa-users"></i>Research Assistants | Unorganized
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="group: other"
+%}
+
+{% include section.html %}
+
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
