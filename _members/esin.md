@@ -2,7 +2,7 @@
 name: Esin Bayralı Ulker
 image: images/esin.jpg
 description: Research Assistant
-group: bcell
+group: bcell-phd
 role: phd
 aliases:
   - E. Ulker
