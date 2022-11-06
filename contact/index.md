@@ -66,7 +66,7 @@ Columbus, OH 43210
 
 {% include section.html %}
 
- # <i class="fas fa-envelope"></i>Contact - T Cell Side
+# <i class="fas fa-envelope"></i>Contact - T Cell Side
 
 Dr. Billur Akkaya's Lab is part of the [Department of Neurology](https://wexnermedical.osu.edu/neurological-institute), at [The Ohio State University College of Medicine](https://medicine.osu.edu/).
 We are located on the 6th floor of the [Biomedical Research Tower](https://www.osu.edu/map/building/112).
