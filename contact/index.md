@@ -43,23 +43,22 @@ We are located on the 2nd floor of the [Dodd Rehabilitation Hosptial](https://we
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+Dodd Hall, Medical Center Dr Dodd Hall, 
+Columbus, OH 43210
 {:.center}
 
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/dodd.jpeg"
+  caption="The Dodd Rehabilitation Hosppital"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
+  image="images/CoM.png"
+  caption="The Ohio State University College of Medicine"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
