@@ -1,5 +1,6 @@
 ---
 title: Home
+##Note the Images for the T and B Cells are copyrighted and a license must be bought prior to web deployment
 ---
 
 # In immune system we trust!
@@ -47,7 +48,7 @@ Vaccines have had the greatest impact on human health of all interventions. All 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/BCell.jpg"
   link="/b-cell"
   title="B-Cell Side"
   text=text
@@ -68,7 +69,7 @@ Autoimmune disorders and cancer are among leading causes of chronic disease and 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/TCell.jpg"
   link="/t-cell"
   title="T-Cell Side"
   flip=true
@@ -76,7 +77,7 @@ Autoimmune disorders and cancer are among leading causes of chronic disease and 
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Akkaya Lab has 20+ research assistants, comprised of high school students, undergraduates, and PhD candidates.
 
 {%
   include link.html
