@@ -14,7 +14,7 @@ We are located on the 2nd floor of the [Dodd Rehabilitation Hosptial](https://we
   include link.html
   type="email"
   icon=""
-  text="E-Mail Dr. Munir"
+  text="E-Mail Dr. Munir Akkaya"
   tooltip=""
   link="munir.akkaya@osumc.edu"
   style="button"
@@ -41,9 +41,9 @@ We are located on the 2nd floor of the [Dodd Rehabilitation Hosptial](https://we
 
 {% include section.html %}
 
-### <i class="fas fa-mail-bulk"></i>Mailing Address
+### <i class="fas fa-mail-bulk"></i>Mailing Address - B Cell Side
 
-Dodd Hall, Medical Center Dr Dodd Hall, 
+Dodd Hall, Medical Center Dr Dodd Hall
 Columbus, OH 43210
 {:.center}
 
@@ -51,7 +51,7 @@ Columbus, OH 43210
 {%
   include figure.html
   image="images/dodd.jpeg"
-  caption="The Dodd Rehabilitation Hosppital"
+  caption="The Dodd Rehabilitation Hospital"
 %}
 {% endcapture %}
 {% capture col2 %}
@@ -60,5 +60,54 @@ Columbus, OH 43210
   image="images/CoM.png"
   caption="The Ohio State University College of Medicine"
 %}
+
+ # <i class="fas fa-envelope"></i>Contact - T Cell Side
+
+Dr. Billur Akkaya's Lab is part of the [Department of Neurology](https://wexnermedical.osu.edu/neurological-institute), at [The Ohio State University College of Medicine](https://medicine.osu.edu/).
+We are located on the 6th floor of the [Biomedical Research Tower](https://www.osu.edu/map/building/112).
+
+{%
+  include link.html
+  type="email"
+  icon=""
+  text="E-Mail Dr. Billur Akkaya"
+  tooltip=""
+  link="billur.akkaya@osumc.edu"
+  style="button"
+%}
+
+{%
+  include link.html
+  type="address"
+  icon=""
+  text="Google Maps"
+  tooltip="Our location on Google Maps for easy navigation"
+  link="https://goo.gl/maps/pthCGia5A63mU94Z9"
+  style="button"
+%}
+{:.center}
+
+{% include section.html %}
+
+### <i class="fas fa-mail-bulk"></i>Mailing Address - T Cell Side
+
+460 W 12th Ave 
+Columbus, OH 43210
+{:.center}
+
+{% capture col1 %}
+{%
+  include figure.html
+  image="images/BRT.jpeg"
+  caption="The Biomedical Research Tower"
+%}
+{% endcapture %}
+{% capture col2 %}
+{%
+  include figure.html
+  image="images/CoM.png"
+  caption="The Ohio State University College of Medicine"
+%}
+
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
