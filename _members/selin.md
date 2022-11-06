@@ -2,6 +2,6 @@
 name: Selin Ustel
 image: images/user.jpg
 description: Research Assistant
-group: other
+group: tcell
 role: undergrad
 ---
