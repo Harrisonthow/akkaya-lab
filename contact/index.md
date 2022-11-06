@@ -34,7 +34,7 @@ We are located on the 2nd floor of the [Dodd Rehabilitation Hosptial](https://we
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://goo.gl/maps/TB3VAv6nWtMuMbmY6
+  link="https://goo.gl/maps/TB3VAv6nWtMuMbmY6"
   style="button"
 %}
 {:.center}
