@@ -2,7 +2,7 @@
 title: T-Cell Projects
 description: Current T-Cell Projects in the Akkaya Lab
 nav:
-  order: 8
+  order: 3
   tooltip: Current Research
 ---
 

@@ -2,7 +2,7 @@
 title: B-Cell Projects
 description: Current B-Cell Projects in the Akkaya Lab
 nav:
-  order: 7
+  order: 4
   tooltip: Current Research
 ---
 
