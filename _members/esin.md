@@ -1,6 +1,6 @@
 ---
 name: Esin Bayralı Ulker
-image: images/esin.jpg
+image: images/user.jpg
 description: Research Assistant
 group: bcell-phd
 role: phd
