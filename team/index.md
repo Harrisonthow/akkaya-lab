@@ -20,36 +20,24 @@ Akkaya Lab studies adaptive immunity and immunoregulation in the context of auto
 
 {% include section.html %}
 
-# <i class="fas fa-users"></i>Research Assistants | B-Cell Side
+# <i class="fas fa-users"></i>Researchers
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="group: bcell-phd"
+  filters="role: phd"
 %}
-
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="group: bcell"
+  filters="role: undergrad"
 %}
-
-{% include section.html %}
-
-# <i class="fas fa-users"></i>Research Assistants | T-Cell Side
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="group: tcell-phd"
-%}
-
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="group: tcell"
+  filters="role: highschool"
 %}
 
 {% include section.html %}
@@ -60,21 +48,6 @@ Akkaya Lab studies adaptive immunity and immunoregulation in the context of auto
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-## Join
-
-#### Post Doctoral Researcher
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- 3+ years experience 
-- Strong desire to learn tricks 
-- Aptitude to work in a lab environment
-
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
-{:.center}
 
 {% include section.html %}
 

@@ -5,16 +5,8 @@ title: Home
 
 # In immune system we trust!
 
-The Akkaya Lab is located at the Ohio State University and in split into two groups: The B-Cell side run by [Dr. Munir Akkaya](members/munir.html), and the T-Cell side run by [Dr. Billur Akkaya](members/billur.html).
+The Akkaya Lab is located at the Ohio State University and in split into two groups: The T-Cell side run by [Dr. Billur Akkaya](members/billur.html), and the B-Cell side run by [Dr. Munir Akkaya](members/munir.html).
 
-{%
-  include link.html
-  type="link"
-  icon=""
-  text="Current B-Cell Projects"
-  link="/b-cell"
-  style="button"
-%}
 {%
   include link.html
   type="link"
@@ -23,6 +15,15 @@ The Akkaya Lab is located at the Ohio State University and in split into two gro
   link="/t-cell"
   style="button"
 %}
+{%
+  include link.html
+  type="link"
+  icon=""
+  text="Current B-Cell Projects"
+  link="/b-cell"
+  style="button"
+%}
+
 {:.center}
 
 {% include section.html full=true %}
