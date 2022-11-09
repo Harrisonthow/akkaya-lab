@@ -34,27 +34,6 @@ The Akkaya Lab is located at the Ohio State University and in split into two gro
 # Highlights
 
 {% capture text %}
-Vaccines have had the greatest impact on human health of all interventions. All vaccines currently in use depend on their ability to induce B cells to make high affinity long-lived antibody responses. Thus, understanding the mechanisms underlying B cell activation will clearly benefit vaccine design and development. Main focus of the research led by Munir Akkaya is to investigate the role of pathogen associated molecular patterns in B cell fate decision and identifying effector mechanisms such as cytokines and transcription factors which might drive the activation induced changes in B cell metabolism and differentiation.
-
-{%
-  include link.html
-  link="/b-cell"
-  text="Learn More"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/BCell.jpg"
-  link="/b-cell"
-  title="B-Cell Side"
-  text=text
-%}
-
-{% capture text %}
 Autoimmune disorders and cancer are among leading causes of chronic disease and death in the US and worldwide. While Regulatory T cells (Tregs) are central to protecting body from autoimmunity, they can also promote tumor progression via restricting anti-tumor immune responses. These make Tregs an attractive, yet a risky, target for treating both ends of the spectrum, therefore we need a thorough understanding of how they mediate their inhibitory functions. Main focus of the research led by Billur Akkaya is elucidating the molecular machinery underlying interactions of Tregs with antigen presenting cells in the context of autoimmunity and cancer to reveal new specific targets for precision therapies.
 
 {%
@@ -75,6 +54,28 @@ Autoimmune disorders and cancer are among leading causes of chronic disease and 
   flip=true
   text=text
 %}
+
+{% capture text %}
+Vaccines have had the greatest impact on human health of all interventions. All vaccines currently in use depend on their ability to induce B cells to make high affinity long-lived antibody responses. Thus, understanding the mechanisms underlying B cell activation will clearly benefit vaccine design and development. Main focus of the research led by Munir Akkaya is to investigate the role of pathogen associated molecular patterns in B cell fate decision and identifying effector mechanisms such as cytokines and transcription factors which might drive the activation induced changes in B cell metabolism and differentiation.
+
+{%
+  include link.html
+  link="/b-cell"
+  text="Learn More"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/BCell.jpg"
+  link="/b-cell"
+  title="B-Cell Side"
+  text=text
+%}
+
 
 {% capture text %}
 The Akkaya Lab has 20+ research assistants, comprised of high school students, undergraduates, and PhD candidates.
