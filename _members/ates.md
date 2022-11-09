@@ -2,7 +2,7 @@
 name: Ateş Kutay Tenekeci
 image: images/members/ates.jpg
 description: Research Assistant
-role: phd
+role: mdphd
 links:
     linkedin: ates-kutay-tenekeci-733a7316b
     email: atesktenekeci@gmail.com

@@ -25,3 +25,7 @@ programmer:
 mascot:
   icon: fas fa-dog
   text: Mascot
+
+mdphd:
+  icon: fa-solid fa-user-doctor
+  text: MD-PhD Student
