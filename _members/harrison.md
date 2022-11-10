@@ -1,7 +1,7 @@
 ---
 name: Harrison Thow
 image: images/members/harrison.jpg
-description: Research Assistant
+description: Research Assistant and Website Developer
 role: undergrad
 links:
     email: thow.3@osu.edu
