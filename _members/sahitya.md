@@ -1,6 +1,6 @@
 ---
 name: Sahitya Jammula
-image: images/user.jpg
+image: images/members/sahitya.jpg
 description: Research Assistant
 role: undergrad
 ---

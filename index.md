@@ -78,12 +78,12 @@ Vaccines have had the greatest impact on human health of all interventions. All 
 
 
 {% capture text %}
-The Akkaya Lab has 20+ research assistants, comprised of high school students, undergraduates, and PhD candidates.
+The Akkaya Lab has 20+ research assistants, comprised of high school students, undergraduates, and PhD candidates from across the globe.
 
 {%
   include link.html
-  link="team"
-  text="Meet our team"
+  link="/team"
+  text="Meet the team"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -93,10 +93,15 @@ The Akkaya Lab has 20+ research assistants, comprised of high school students, u
 {%
   include feature.html
   image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  link="/team"
+  title="Team"
+  flip=true
   text=text
 %}
+
+{:.center}
+{% endcapture %}
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
