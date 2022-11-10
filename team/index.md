@@ -55,7 +55,9 @@ Akkaya Lab studies adaptive immunity and immunoregulation in the context of auto
 {% include section.html background="images/banner.jpg" dark=true%}
 
 “Science is the most reliable guide in life.”
-<i>Mustafa Kemal Ataturk</i>
+<br><i>Mustafa Kemal Ataturk</i></br>
+
+{:.center}
 
 {% include section.html %}
 
