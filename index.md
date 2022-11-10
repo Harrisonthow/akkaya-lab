@@ -98,10 +98,7 @@ The Akkaya Lab has 20+ research assistants, comprised of high school students, u
   flip=true
   text=text
 %}
-
 {:.center}
-{% endcapture %}
-
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
