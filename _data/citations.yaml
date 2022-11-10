@@ -412,4 +412,12 @@
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3653949/
   orcid: 0000-0002-6808-3776
   _cache: aa24b098795d644e8140de22bb238a18c78ba4065744e3af13130016119a7918
-
+- id: doi:10.3389/fimmu.2022.940052
+  title: 'Exhaust the exhausters: Targeting regulatory T cells in the tumor microenvironment'
+  authors:
+  - Bayley R. McRitchie
+  - Billur Akkaya
+  publisher: Frontiers in Immunology
+  date: '2022-30-09'
+  image: https://www.frontiersin.org/files/Articles/940052/fimmu-13-940052-HTML-r1/image_m/fimmu-13-940052-g001.jpg
+  link: https://doi.org/10.3389/fimmu.2022.940052
