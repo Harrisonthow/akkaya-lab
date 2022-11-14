@@ -9,7 +9,6 @@ member: harrison
 
 {%
   include gallery.html
-  style="square"
 
   image1="images/blog/exhaust.png"
   link1="https://doi.org/10.3389/fimmu.2022.940052"
