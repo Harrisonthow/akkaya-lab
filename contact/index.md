@@ -55,6 +55,7 @@ Columbus, OH 43210
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
 
+{% include section.html %}
 
 # <i class="fas fa-envelope"></i>Contact - B Cell Side
 
