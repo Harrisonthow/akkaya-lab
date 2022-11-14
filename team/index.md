@@ -70,7 +70,6 @@ Our work is made possible by funding from several organizations.
 
 {%
   include gallery.html
-  style="square"
 
   image1="images/funding/nih.jpg"
   link1="https://nih.gov/"
