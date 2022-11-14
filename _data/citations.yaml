@@ -8,6 +8,7 @@
   - Kihyuck Kwak
   - Susan K. Pierce
   publisher: Nature Reviews Immunology
+  tags: B-cells, Memory, Pathogens
   date: '2019-12-13'
   link: https://doi.org/gghcs6
   orcid: 0000-0002-9949-9424
@@ -16,6 +17,7 @@
 - id: doi:10.1126/sciadv.aaw6957
   title: "A single-nucleotide polymorphism in a\n            <i>Plasmodium berghei</i>\n\
     \            ApiAP2 transcription factor alters the development of host immunity"
+  tags: Plasmodium berghei, Transcription, Polymorphism, B-Cells
   authors:
   - Munir Akkaya
   - Abhisheka Bansal
@@ -43,6 +45,7 @@
   _cache: a962e6129e059a825cdc6556f88424bbf5ad5c492cb5c853b74c628e8e27d9ab
 - id: doi:10.1038/s41590-019-0427-9
   title: B cell signaling in context
+  tags: B-Cells, Signaling
   authors:
   - Kihyuck Kwak
   - Munir Akkaya
@@ -55,6 +58,7 @@
   _cache: f0a12c26f812d0c6e82e4abe822e0d060761bc0dad7f7790ced562049ebc2582
 - id: doi:10.1016/j.coi.2018.09.019
   title: 'From zero to sixty and back to zero again: the metabolic life of B cells'
+  tags: Metabolism, B-Cells
   authors:
   - Munir Akkaya
   - Susan K Pierce
@@ -67,6 +71,7 @@
 - id: doi:10.1038/s41590-018-0280-2
   title: "Regulatory T cells mediate specific suppression by depleting peptide\u2013\
     MHC class II from dendritic cells"
+  tags: MHCII, T-Cells, Peptides
   authors:
   - Billur Akkaya
   - Yoshihiro Oya
@@ -88,6 +93,7 @@
 - id: doi:10.1038/s41590-018-0156-5
   title: Second signals rescue B cells from activation-induced mitochondrial dysfunction
     and death
+  tags: Signaling, B-Cells, Metabolism, Mitochondria
   authors:
   - Munir Akkaya
   - Javier Traba
@@ -111,6 +117,7 @@
   orcid: 0000-0002-9949-9424
   _cache: 11e677970480ba01d82ddb4efc598c810ea7a3af6447ee1bd5725fc72b267ca8
 - id: doi:10.1002/eji.201747113
+  tags: T-Cells, DOTAP-CpG, Mice, CpG
   title: T cell-dependent antigen adjuvanted with DOTAP-CpG-B but not DOTAP-CpG-A
     induces robust germinal center responses and high affinity antibodies in mice
   authors:
@@ -130,6 +137,7 @@
   image: https://onlinelibrary.wiley.com/cms/asset/e1aaf873-6b89-4385-96f4-fe58fe6884ea/eji4015-fig-0001-m.jpg
   _cache: bd20b6c95858f4c9bbab353c6bec82bbde275ff18ac4418cb4a03e1067b4c6b5
 - id: doi:10.4049/jimmunol.1600491
+  tags: Autoreactivity, Malaria, B-Cells, VH4-34
   title: "The Regulation of Inherently Autoreactive VH4-34\u2013Expressing B Cells\
     \ in Individuals Living in a Malaria-Endemic Area of West Africa"
   authors:
@@ -159,6 +167,7 @@
   orcid: 0000-0002-9949-9424
   _cache: 0194cdcd3e4c480e43d67a571a06025b96bf0f5ab2e220103c79f349e7968981
 - id: doi:10.4049/jimmunol.1600727
+  tags: Flow Cytometry
   title: A Simple, Versatile Antibody-Based Barcoding Method for Flow Cytometry
   authors:
   - Billur Akkaya
@@ -174,6 +183,7 @@
   orcid: 0000-0002-9949-9424
   _cache: 1531b06e6d4adbbfaff4b2e798701e6e4cf4943df1003692f097140ebf0a868e
 - id: doi:10.1016/j.virol.2015.10.026
+  tags: Rabbit, Poxviruses, CD200, B-Cells, Viruses
   title: Rabbit CD200R binds host CD200 but not CD200-like proteins from poxviruses
   authors:
   - Munir Akkaya
@@ -188,6 +198,7 @@
   orcid: 0000-0002-9949-9424
   _cache: e07277ceb029b9944e467ecaf7a2e18b1a947a058adf2da981517fe858c9bc73
 - id: doi:10.1099/jgv.0.000335
+  tags: Herpesvirus, CD200, B-Cells, Viruses
   title: Herpesvirus orthologues of CD200 bind host CD200R but not related activating
     receptors
   authors:
@@ -202,6 +213,7 @@
   image: https://www.microbiologyresearch.org/docserver/ahah/fulltext/jgv/97/1/jgv000335-f1_thmb.gif
   _cache: 2181216495f30477e6abe263d918af3da7a560663ff4e2f3f6bc753f3dc74004
 - id: doi:10.1128/mBio.00725-15
+  tags: Malaria, Rapamycin
   title: Inhibiting the Mammalian Target of Rapamycin Blocks the Development of Experimental
     Cerebral Malaria
   authors:
@@ -224,6 +236,7 @@
   orcid: 0000-0002-9949-9424
   _cache: 00400f099505d3669a195b3b84e5d2e8de648613caca9e3ae97bba9945dae148
 - id: doi:10.1073/pnas.1516544112
+  tags: Glutamine, Malaria, Metabolism
   title: Targeting glutamine metabolism rescues mice from late-stage cerebral malaria
   authors:
   - Emile B. Gordon
@@ -248,6 +261,7 @@
   orcid: 0000-0002-9949-9424
   _cache: 61dffa008b5cc34edd7bd0e92464ed77d0d24af3942e67d4feb90e3a7575064a
 - id: doi:10.1002/eji.201242896
+  tags: Pathogens, B-Cells, Paired Receptor
   title: How do pathogens drive the evolution of paired receptors?
   authors:
   - Munir Akkaya
@@ -259,6 +273,7 @@
   orcid: 0000-0002-9949-9424
   _cache: 868405cff48c952d1f16ef935f4ead14f311f924584fd98f0d916852a1e20cac
 - id: doi:10.1007/s00251-009-0415-6
+  tags: CD200, B-Cells
   title: Heterogeneity in the CD200R paired receptor family
   authors:
   - Munir Akkaya
@@ -272,6 +287,7 @@
 - id: doi:10.1007/s10616-009-9241-9
   title: Transfection of myeloid leukaemia cell lines is distinctively regulated by
     fibronectin substratum
+  tags: Fibronectin, Myeloid Leukaemia
   authors:
   - Gunes Esendagli
   - Hande Canpinar
@@ -287,6 +303,7 @@
   _cache: bbfa66a23a5b71acfef644163406e2f1c7fa3792a22e1740f47b65cb4ed0ab7f
 - id: doi:10.1016/j.cellimm.2020.104160
   title: 'Regulatory T cells: Master thieves of the immune system'
+  tags: Treg Cells, T-Cells
   authors:
   - Billur Akkaya
   - Ethan M. Shevach
@@ -297,6 +314,7 @@
   orcid: 0000-0002-6808-3776
   _cache: 5c9c10fce9864657493007000f1a3af8504213a72b62152b0e741036f5c69031
 - id: doi:10.4049/jimmunol.1800753
+  tags: Mitochondria, Reactive Oxygen Species, T-Cells
   title: Increased Mitochondrial Biogenesis and Reactive Oxygen Species Production
     Accompany Prolonged CD4<sup>+</sup> T Cell Activation
   authors:
@@ -321,6 +339,7 @@
   orcid: 0000-0002-6808-3776
   _cache: cb6f76ac6a9770e788c52d00579a5cf6dd21bedd06485470aa4db0f5876749ac
 - id: doi:10.1038/s41590-018-0052-z
+  tags: TLR9, Antibodies
   title: Toll-like receptor 9 antagonizes antibody affinity maturation
   authors:
   - Munir Akkaya
@@ -348,6 +367,7 @@
 - id: doi:10.4049/jimmunol.1700348
   title: B Cells Produce Type 1 IFNs in Response to the TLR9 Agonist CpG-A Conjugated
     to Cationic Lipids
+  tags: B-Cells, TLR9, CpG
   authors:
   - Munir Akkaya
   - Billur Akkaya
@@ -368,6 +388,7 @@
   orcid: 0000-0002-6808-3776
   _cache: c92a7cd97a08c420e28e1dc27ab2bf7e6db5e51e7fe8a7d19230adba609cfe92
 - id: doi:10.1016/j.jim.2016.11.013
+  tags: Treg Cells, Differentiation
   title: 'Ex-vivo iTreg differentiation revisited: Convenient alternatives to existing
     strategies'
   authors:
@@ -387,6 +408,7 @@
 - id: doi:10.3791/54918
   title: An Optimized Protocol to Analyze Glycolysis and Mitochondrial Respiration
     in Lymphocytes
+  tags: Glycolysis, Mitochondria, Respiration, Lymphocytes, Protocols, Metabolism
   authors:
   - Javier Traba
   - Pietro Miozzo
@@ -401,6 +423,7 @@
   _cache: 9a8a69e2b9f219536ecfb7a16e5e92593b08d5f0eab203309067567aabc982fe
 - id: pmc:PMC3653949
   title: Dissection of agonistic and blocking effects of CD200 receptor antibodies
+  tags: Antibodies, CD200
   authors:
   - Munir Akkaya
   - Marie-Laure Aknin
@@ -414,6 +437,7 @@
   _cache: aa24b098795d644e8140de22bb238a18c78ba4065744e3af13130016119a7918
 - id: doi:10.3389/fimmu.2022.940052
   title: 'Exhaust the exhausters: Targeting regulatory T cells in the tumor microenvironment'
+  tags: T-Cells, TReg Cells, Tumors
   authors:
   - Bayley R. McRitchie
   - Billur Akkaya

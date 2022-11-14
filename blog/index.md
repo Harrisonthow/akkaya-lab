@@ -1,8 +1,8 @@
 ---
-title: Blog
+title: Blog and Awards
 nav:
   order: 6
-  tooltip: Musings and miscellany
+  tooltip: Updates and Awards from the Akkaya Lab
 ---
 
 # <i class="fas fa-feather-alt"></i>Blog
