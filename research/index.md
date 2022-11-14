@@ -8,6 +8,7 @@ nav:
 # <i class="fas fa-microscope"></i>Research
 
 This page includes the most up-to-date articles from members of the Akkaya Lab!
+{:.center}
 
 {% include section.html %}
 
