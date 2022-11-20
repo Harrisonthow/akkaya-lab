@@ -1,6 +1,6 @@
 ---
 title: Akkaya Lab 2.0 Now Open!
-author: admin
+author: Admin
 member: harrison
 ---
 
