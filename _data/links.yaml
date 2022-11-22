@@ -92,6 +92,12 @@ linkedin:
   tooltip: LinkedIn
   link: https://www.linkedin.com/in/$LINK
 
+  harrison-hp:
+    icon: fas fa-globe
+    text: Harrisonthow.co.uk
+    tooltip: Harrison's Professional Website
+    link: https://harrisonthow.co.uk/$LINK
+
 # publications
 
 journal:
