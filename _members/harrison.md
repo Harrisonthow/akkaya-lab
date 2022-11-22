@@ -6,7 +6,7 @@ role: undergrad
 links:
     email: thow.3@osu.edu
     linkedin: harrison-g-thow
-    link: harrisonthow.co.uk
+    external: harrisonthow.co.uk
     phone: 832-727-5069
 ---
 
