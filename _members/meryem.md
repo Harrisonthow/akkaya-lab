@@ -1,6 +1,6 @@
 ---
 name: Şöhret Meryem Gökçek
-image: images/user.jpg
+image: images/members/meryem.jpg
 description: Research Assistant
 role: phd
 aliases:
