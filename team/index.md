@@ -78,5 +78,9 @@ Our work is made possible by funding from several organizations.
   image2="images/funding/pelotonia.jpg"
   link2="https://cancer.osu.edu/for-cancer-researchers/research/research-institutes-and-centers/pelotonia-institute-for-immuno-oncology"
   tooltip2="Pelotonia Institute for Immuno-Oncology"
+
+  image3="images/funding/Ohio-State.png"
+  link3="https://idi.osu.edu/"
+  tooltip2="Ohio State University Infectious Disease Institute"
 %}
 {:.center}
