@@ -70,7 +70,7 @@ Vaccines have had the greatest impact on human health of all interventions. All 
 
 {%
   include feature.html
-  image="images/BCell.jpg"
+  image="images/BCell.png"
   link="/b-cell"
   title="B-Cell Side"
   text=text
@@ -92,7 +92,7 @@ The Akkaya Lab has 20+ research assistants, comprised of high school students, u
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/lab.jpg"
   link="/team"
   title="Team"
   flip=true
