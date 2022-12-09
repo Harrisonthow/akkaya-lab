@@ -1,7 +1,6 @@
 ---
 name: Srikruthi Godavarthi
 image: images/members/sri.jpg
-description: Research Assistant
 role: highschool
 ---
 

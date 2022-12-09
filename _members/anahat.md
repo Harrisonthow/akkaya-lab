@@ -1,7 +1,6 @@
 ---
 name: Anahat Dhillon
 image: images/members/anahat.jpg
-description: Research Assistant
 role: undergrad
 ---
 

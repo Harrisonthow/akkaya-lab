@@ -1,7 +1,7 @@
 ---
 name: Billur Akkaya, MD, DPhil
 image: images/members/billur.jpg
-description: Principal Investigator | T-Cell Lab
+description: T-Cell Side
 role: pi
 aliases:
   - B. Akkaya

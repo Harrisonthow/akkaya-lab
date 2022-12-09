@@ -1,7 +1,6 @@
 ---
 name: Serena Ozabrahamyan
 image: images/members/serenao.jpg
-description: Research Assistant
 role: phd
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Blog and Awards
+title: Lab Updates
 nav:
   order: 6
   tooltip: Updates and Awards from the Akkaya Lab

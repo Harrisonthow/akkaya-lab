@@ -1,7 +1,6 @@
 ---
 name: Serena Mehta
 image: images/members/serenam.jpg
-description: Research Assistant
 role: undergrad
 ---
 

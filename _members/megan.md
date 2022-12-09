@@ -1,7 +1,6 @@
 ---
 name: Megan MacCartney
 image: images/members/megan.jpg
-description: Research Assistant
 role: undergrad
 ---
 

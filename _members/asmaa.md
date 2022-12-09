@@ -1,7 +1,6 @@
 ---
 name: Asmaa Yousif
 image: images/members/asmaa.jpg
-description: Research Assistant
 role: undergrad
 links:
     linkedin: asmaa-yousif02

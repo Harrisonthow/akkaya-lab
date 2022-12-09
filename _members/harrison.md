@@ -1,7 +1,6 @@
 ---
 name: Harrison Thow
 image: images/members/harrison.jpg
-description: Research Assistant
 role: undergrad
 links:
     email: thow.3@osu.edu

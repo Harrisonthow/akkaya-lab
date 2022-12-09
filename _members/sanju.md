@@ -1,7 +1,6 @@
 ---
 name: Sanju Gudla
 image: images/members/sanju.jpg
-description: Research Assistant
 role: highschool
 ---
 

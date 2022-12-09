@@ -1,7 +1,6 @@
 ---
 name: Bayley McRitchie
 image: images/members/bayley.jpg
-description: Research Assistant
 role: phd
 links:
     email: bayley.mcritchie@osumc.edu

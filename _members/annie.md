@@ -1,7 +1,6 @@
 ---
 name: Annie Carney
 image: images/members/annie.jpg
-description: Research Assistant
 role: undergrad
 links:
     email: carney.270@osu.edu 

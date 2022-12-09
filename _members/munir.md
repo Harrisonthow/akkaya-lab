@@ -1,7 +1,7 @@
 ---
 name: Munir Akkaya, MD, DPhil
 image: images/members/munir.jpg
-description: Principal Investigator | B-Cell Lab
+description: B-Cell Side
 role: pi
 aliases:
   - M. Akkaya
