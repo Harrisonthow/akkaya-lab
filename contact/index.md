@@ -48,7 +48,7 @@ Columbus, OH 43210
 {% capture col2 %}
 {%
   include figure.html
-  image="images/CoM.png"
+  image="images/CoM.webp"
   caption="The Ohio State University College of Medicine"
 %}
 
@@ -109,7 +109,7 @@ Columbus, OH 43210
 {% capture col2 %}
 {%
   include figure.html
-  image="images/CoM.png"
+  image="images/CoM.webp"
   caption="The Ohio State University College of Medicine"
 %}
 

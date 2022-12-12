@@ -1,6 +1,6 @@
 ---
 name: Asmaa Yousif
-image: images/members/asmaa.jpg
+image: images/members/asmaa.webp
 role: undergrad
 links:
     linkedin: asmaa-yousif02

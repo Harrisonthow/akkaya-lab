@@ -1,6 +1,6 @@
 ---
 name: Ateş Kutay Tenekeci
-image: images/members/ates.jpg
+image: images/members/ates.webp
 role: mdphd
 links:
     linkedin: ates-kutay-tenekeci-733a7316b

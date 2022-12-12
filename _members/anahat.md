@@ -1,6 +1,6 @@
 ---
 name: Anahat Dhillon
-image: images/members/anahat.jpg
+image: images/members/anahat.webp
 role: undergrad
 ---
 

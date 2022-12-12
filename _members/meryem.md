@@ -1,6 +1,6 @@
 ---
 name: Şöhret Meryem Gökçek
-image: images/members/meryem.jpg
+image: images/members/meryem.webp
 role: phd
 aliases:
   - S. Gokcek

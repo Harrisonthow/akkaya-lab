@@ -1,6 +1,6 @@
 ---
 name: Annie Carney
-image: images/members/annie.jpg
+image: images/members/annie.webp
 role: undergrad
 links:
     email: carney.270@osu.edu 

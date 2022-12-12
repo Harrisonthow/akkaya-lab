@@ -1,6 +1,6 @@
 ---
 name: Billur Akkaya, MD, DPhil
-image: images/members/billur.jpg
+image: images/members/billur.webp
 description: T-Cell Side
 role: pi
 aliases:

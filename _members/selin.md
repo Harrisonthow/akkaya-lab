@@ -1,6 +1,6 @@
 ---
 name: Selin Ustel
-image: images/members/selin.jpg
+image: images/members/selin.webp
 role: undergrad
 ---
 

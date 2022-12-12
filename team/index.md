@@ -54,7 +54,7 @@ Akkaya Lab studies adaptive immunity and immunoregulation in the context of auto
 
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
+{% include section.html background="images/banner.webp" dark=true%}
 
 <p style="text-align:center">“Science is the most reliable guide in life.”</p>
 <br><i style="text-align:center">Mustafa Kemal Ataturk</i>
@@ -71,15 +71,15 @@ Our work is made possible by funding from several organizations.
 {%
   include gallery.html
 
-  image1="images/funding/nih.jpg"
+  image1="images/funding/nih.webp"
   link1="https://nih.gov/"
   tooltip1="National Institutes of Health"
 
-  image2="images/funding/pelotonia.jpg"
+  image2="images/funding/pelotonia.webp"
   link2="https://cancer.osu.edu/for-cancer-researchers/research/research-institutes-and-centers/pelotonia-institute-for-immuno-oncology"
   tooltip2="Pelotonia Institute for Immuno-Oncology"
 
-  image3="images/funding/Ohio-State.png"
+  image3="images/funding/Ohio-State.webp"
   link3="https://idi.osu.edu/"
   tooltip2="Ohio State University Infectious Disease Institute"
 %}

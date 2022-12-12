@@ -1,6 +1,6 @@
 ---
 name: Abby Kraynak
-image: images/members/abby.jpg
+image: images/members/abby.webp
 role: undergrad
 links:
     linkedin: abby-kraynak

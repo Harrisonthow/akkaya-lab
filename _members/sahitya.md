@@ -1,6 +1,6 @@
 ---
 name: Sahitya Jammula
-image: images/members/sahitya.jpg
+image: images/members/sahitya.webp
 role: undergrad
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: Munir Akkaya, MD, DPhil
-image: images/members/munir.jpg
+image: images/members/munir.webp
 description: B-Cell Side
 role: pi
 aliases:

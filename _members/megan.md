@@ -1,6 +1,6 @@
 ---
 name: Megan MacCartney
-image: images/members/megan.jpg
+image: images/members/megan.webp
 role: undergrad
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: Serena Mehta
-image: images/members/serenam.jpg
+image: images/members/serenam.webp
 role: undergrad
 ---
 

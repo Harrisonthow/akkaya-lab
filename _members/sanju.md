@@ -1,6 +1,6 @@
 ---
 name: Sanju Gudla
-image: images/members/sanju.jpg
+image: images/members/sanju.webp
 role: highschool
 ---
 

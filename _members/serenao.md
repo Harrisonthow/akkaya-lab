@@ -1,6 +1,6 @@
 ---
 name: Serena Ozabrahamyan
-image: images/members/serenao.jpg
+image: images/members/serenao.webp
 role: phd
 ---
 

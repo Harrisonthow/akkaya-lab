@@ -1,6 +1,6 @@
 ---
 name: Srikruthi Godavarthi
-image: images/members/sri.jpg
+image: images/members/sri.webp
 role: highschool
 ---
 

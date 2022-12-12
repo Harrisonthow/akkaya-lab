@@ -1,6 +1,6 @@
 ---
 name: Esin Bayralı Ulker
-image: images/members/esin.jpg
+image: images/members/esin.webp
 role: phd
 aliases:
   - E. Ulker

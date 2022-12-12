@@ -10,7 +10,7 @@ member: harrison
 {%
   include gallery.html
 
-  image1="images/blog/exhaust.png"
+  image1="images/blog/exhaust.webp"
   link1="https://doi.org/10.3389/fimmu.2022.940052"
   tooltip1="Read the Article!"
 %}
