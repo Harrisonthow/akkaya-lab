@@ -41,7 +41,7 @@ Columbus, OH 43210
 {% capture col1 %}
 {%
   include figure.html
-  image="images/BRT.jpeg"
+  image="images/BRT.webp"
   caption="The Biomedical Research Tower"
 %}
 {% endcapture %}
@@ -102,7 +102,7 @@ Columbus, OH 43210
 {% capture col1 %}
 {%
   include figure.html
-  image="images/dodd.jpeg"
+  image="images/dodd.webp"
   caption="The Dodd Rehabilitation Hospital"
 %}
 {% endcapture %}
