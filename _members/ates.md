@@ -8,4 +8,4 @@ links:
 
 ---
 
-Hi, my name is Ateş Kutay Tenekeci. I am a 5th year student at Hacettepe University Faculty of Medicine. I am in my 3nd year of the MD-PhD program at our school. Currently, I am taking clinical rotation trainings and a biochemistry doctorate class. I am working at the B cell side of the Akkaya Lab. I like making coffee and listening music.
+Hi, my name is Ateş Kutay Tenekeci. I am a 5th-year student at Hacettepe University Faculty of Medicine. I am in my 3rd year of the MD-PhD program at our school. Currently, I am taking clinical rotation training and a biochemistry doctorate class. I am working at the B cell side of the Akkaya Lab. I like making coffee and listening to music.

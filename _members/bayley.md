@@ -8,4 +8,4 @@ links:
 
 ---
 
-My name is Bayley McRitchie, and I am a research assistant here in the T cell side of the Akkaya Lab. I grew up in northeast Ohio in Medina county before going to The Ohio State University where I received my degree in Biochemistry in 2022. I am fascinated by the immune system, and hope to use all that I’ve learned in the Akkaya Lab as a physician one day. In my free time I love going on runs, exploring new hiking trails, and cooking.
+My name is Bayley McRitchie, and I am a research assistant here on the T cell side of the Akkaya Lab. I grew up in northeast Ohio in Medina County before attending The Ohio State University, where I received my degree in Biochemistry in 2022. I am fascinated by the immune system and hope to use all I’ve learned in the Akkaya Lab as a physician one day. I love going on runs, exploring new hiking trails, and cooking in my free time.
