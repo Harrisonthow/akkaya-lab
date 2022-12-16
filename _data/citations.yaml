@@ -12,7 +12,7 @@
   date: '2019-12-13'
   link: https://doi.org/gghcs6
   orcid: 0000-0002-9949-9424
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41577-019-0244-2/MediaObjects/41577_2019_244_Fig1_HTML.png?as=webp
+  image: ../images/article/1.webp 
   _cache: e39eb27d8eb7bb72312af6f5a8024e30101773f75af0ae43bbafb0702638695b
 - id: doi:10.1126/sciadv.aaw6957
   title: "A single-nucleotide polymorphism in a\n            <i>Plasmodium berghei</i>\n\
@@ -41,7 +41,7 @@
   date: '2020-02-07'
   link: https://doi.org/gjd4s4
   orcid: 0000-0002-9949-9424
-  image: https://www.science.org/cms/10.1126/sciadv.aaw6957/asset/b150d4fa-b19f-4019-8aa9-2e3e445763d9/assets/graphic/aaw6957-f4.jpeg
+  image: ../images/article/2.webp
   _cache: a962e6129e059a825cdc6556f88424bbf5ad5c492cb5c853b74c628e8e27d9ab
 - id: doi:10.1038/s41590-019-0427-9
   title: B cell signaling in context
@@ -53,7 +53,7 @@
   publisher: Nature Immunology
   date: '2019-07-08'
   link: https://doi.org/gq544x
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41590-019-0427-9/MediaObjects/41590_2019_427_Fig1_HTML.png?as=webp
+  image: ../images/article/3.webp
   orcid: 0000-0002-9949-9424
   _cache: f0a12c26f812d0c6e82e4abe822e0d060761bc0dad7f7790ced562049ebc2582
 - id: doi:10.1016/j.coi.2018.09.019
@@ -64,7 +64,7 @@
   - Susan K Pierce
   publisher: Current Opinion in Immunology
   date: '2019-04-01'
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0952791518300839-gr1.jpg
+  image: ../images/article/4.webp 
   link: https://doi.org/gq544z
   orcid: 0000-0002-9949-9424
   _cache: 0a11cfcbe4e5f59b2e14160dee38f0395ec9fa4a3c6ca73b1e24b83506e62a25
@@ -85,7 +85,7 @@
   - Deborah D. Glass
   - Ethan M. Shevach
   publisher: Nature Immunology
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41590-018-0280-2/MediaObjects/41590_2018_280_Fig2_HTML.png?as=webp
+  image: ../images/article/5.webp
   date: '2019-01-14'
   link: https://doi.org/gpwjvp
   orcid: 0000-0002-9949-9424
@@ -113,7 +113,7 @@
   publisher: Nature Immunology
   date: '2018-07-09'
   link: https://doi.org/gdzhfc
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41590-018-0156-5/MediaObjects/41590_2018_156_Fig1_HTML.jpg?as=webp
+  image: ../images/article/6.webp
   orcid: 0000-0002-9949-9424
   _cache: 11e677970480ba01d82ddb4efc598c810ea7a3af6447ee1bd5725fc72b267ca8
 - id: doi:10.1002/eji.201747113
@@ -134,7 +134,7 @@
   date: '2017-08-21'
   link: https://doi.org/gq5442
   orcid: 0000-0002-9949-9424
-  image: https://onlinelibrary.wiley.com/cms/asset/e1aaf873-6b89-4385-96f4-fe58fe6884ea/eji4015-fig-0001-m.jpg
+  image: ../images/article/7.webp
   _cache: bd20b6c95858f4c9bbab353c6bec82bbde275ff18ac4418cb4a03e1067b4c6b5
 - id: doi:10.4049/jimmunol.1600491
   tags: Autoreactivity, Malaria, B-Cells, VH4-34
@@ -161,7 +161,7 @@
   - Ignacio Sanz
   - Susan K. Pierce
   publisher: The Journal of Immunology
-  image: https://www.jimmunol.org/content/jimmunol/197/10/3841/F5.medium.gif
+  image: ../images/article/8.webp 
   date: '2016-10-19'
   link: https://doi.org/f9fbw4
   orcid: 0000-0002-9949-9424
@@ -178,7 +178,7 @@
   - Munir Akkaya
   publisher: The Journal of Immunology
   date: '2016-07-20'
-  image: https://www.jimmunol.org/content/jimmunol/197/5/2027/F1.medium.gif
+  image: ../images/article/9.webp 
   link: https://doi.org/f86z79
   orcid: 0000-0002-9949-9424
   _cache: 1531b06e6d4adbbfaff4b2e798701e6e4cf4943df1003692f097140ebf0a868e
@@ -194,7 +194,7 @@
   publisher: Virology
   date: '2016-01-01'
   link: https://doi.org/f8bdhr
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0042682215004547-gr1.jpg
+  image: ../images/article/10.webp 
   orcid: 0000-0002-9949-9424
   _cache: e07277ceb029b9944e467ecaf7a2e18b1a947a058adf2da981517fe858c9bc73
 - id: doi:10.1099/jgv.0.000335
@@ -210,7 +210,7 @@
   date: '2016-01-01'
   link: https://doi.org/f8dsvb
   orcid: 0000-0002-9949-9424
-  image: https://www.microbiologyresearch.org/docserver/ahah/fulltext/jgv/97/1/jgv000335-f1_thmb.gif
+  image: ../images/article/11.gif 
   _cache: 2181216495f30477e6abe263d918af3da7a560663ff4e2f3f6bc753f3dc74004
 - id: doi:10.1128/mBio.00725-15
   tags: Malaria, Rapamycin
@@ -230,7 +230,7 @@
   - Louis H. Miller
   - Susan K. Pierce
   publisher: mBio
-  image: https://journals.asm.org/cms/10.1128/mBio.00725-15/asset/150b5834-938f-4a88-8422-120e626dd148/assets/graphic/mbo0031523470002.jpeg
+  image: ../images/article/12.webp 
   date: '2015-07-01'
   link: https://doi.org/gq5445
   orcid: 0000-0002-9949-9424
@@ -255,7 +255,7 @@
   - Jonathan D. Powell
   - Susan K. Pierce
   publisher: Proceedings of the National Academy of Sciences
-  image: https://www.pnas.org/cms/10.1073/pnas.1516544112/asset/8a9993b4-2447-4432-98e2-85119cdceece/assets/graphic/pnas.1516544112fig02.jpeg
+  image: ../images/article/13.webp 
   date: '2015-10-05'
   link: https://doi.org/f7vrmk
   orcid: 0000-0002-9949-9424
@@ -268,7 +268,7 @@
   - A. Neil Barclay
   publisher: European Journal of Immunology
   date: '2013-02-01'
-  image: https://onlinelibrary.wiley.com/cms/asset/aa6d6d56-9802-41e5-af8d-7a37149da18a/eji2537-fig-0001-m.jpg
+  image: ../images/article/14.webp 
   link: https://doi.org/f2dz5k
   orcid: 0000-0002-9949-9424
   _cache: 868405cff48c952d1f16ef935f4ead14f311f924584fd98f0d916852a1e20cac
@@ -282,7 +282,7 @@
   date: '2009-12-05'
   link: https://doi.org/c226ff
   orcid: 0000-0002-9949-9424
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00251-009-0415-6/MediaObjects/251_2009_415_Fig3_HTML.gif?as=webp
+  image: ../images/article/15.webp 
   _cache: 65305d1a1c2c988006ed3a68a6a905119c07833d801572ee29065ef166bc7efc
 - id: doi:10.1007/s10616-009-9241-9
   title: Transfection of myeloid leukaemia cell lines is distinctively regulated by
@@ -296,7 +296,7 @@
   - Emin Kansu
   - Dicle Guc
   publisher: Cytotechnology
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10616-009-9241-9/MediaObjects/10616_2009_9241_Fig4_HTML.gif?as=webp
+  image: ../images/article/16.webp 
   date: '2009-11-01'
   link: https://doi.org/d2tx8q
   orcid: 0000-0002-9949-9424
@@ -310,7 +310,7 @@
   publisher: Cellular Immunology
   date: '2020-09-01'
   link: https://doi.org/gq6bbm
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0008874920303208-gr1.jpg
+  image: ../images/article/17.webp 
   orcid: 0000-0002-6808-3776
   _cache: 5c9c10fce9864657493007000f1a3af8504213a72b62152b0e741036f5c69031
 - id: doi:10.4049/jimmunol.1800753
@@ -335,7 +335,7 @@
   publisher: The Journal of Immunology
   date: '2018-10-29'
   link: https://doi.org/gfp4kx
-  image: https://www.jimmunol.org/content/jimmunol/201/11/3294/F7.medium.gif
+  image: ../images/article/18.webp 
   orcid: 0000-0002-6808-3776
   _cache: cb6f76ac6a9770e788c52d00579a5cf6dd21bedd06485470aa4db0f5876749ac
 - id: doi:10.1038/s41590-018-0052-z
@@ -362,7 +362,7 @@
   date: '2018-02-23'
   link: https://doi.org/gc7xs3
   orcid: 0000-0002-6808-3776
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41590-018-0052-z/MediaObjects/41590_2018_52_Fig2_HTML.jpg?as=webp
+  image: ../images/article/19.webp 
   _cache: 444ffdbd468e2f3aaa3613f8583fa38cd72bcc8b146af2929e3aafad8ff8a83f
 - id: doi:10.4049/jimmunol.1700348
   title: B Cells Produce Type 1 IFNs in Response to the TLR9 Agonist CpG-A Conjugated
@@ -384,7 +384,7 @@
   publisher: The Journal of Immunology
   date: '2017-06-26'
   link: https://doi.org/gbq8wj
-  image: https://www.jimmunol.org/content/jimmunol/199/3/931/F4.medium.gif
+  image: ../images/article/20.webp 
   orcid: 0000-0002-6808-3776
   _cache: c92a7cd97a08c420e28e1dc27ab2bf7e6db5e51e7fe8a7d19230adba609cfe92
 - id: doi:10.1016/j.jim.2016.11.013
@@ -403,7 +403,7 @@
   date: '2017-02-01'
   link: https://doi.org/gq5443
   orcid: 0000-0002-6808-3776
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0022175916302964-gr2.jpg
+  image: ../images/article/21.webp
   _cache: 3c19bce7edecf6c8fd35c880df92beabed8e1b39a7f8b86e4bc6b1dfecc78e66
 - id: doi:10.3791/54918
   title: An Optimized Protocol to Analyze Glycolysis and Mitochondrial Respiration
@@ -418,7 +418,7 @@
   publisher: Journal of Visualized Experiments
   date: '2016-11-21'
   link: https://doi.org/gqpxk7
-  image: https://cloudfront.jove.com/files/ftp_upload/54918/54918fig1.jpg
+  image: ../images/article/22.webp
   orcid: 0000-0002-6808-3776
   _cache: 9a8a69e2b9f219536ecfb7a16e5e92593b08d5f0eab203309067567aabc982fe
 - id: pmc:PMC3653949
@@ -430,7 +430,7 @@
   - Billur Akkaya
   - A Neil Barclay
   publisher: PloS one
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3653949/bin/pone.0063325.g005.jpg
+  image: ../images/article/23.webp
   date: '2013-05-14'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3653949/
   orcid: 0000-0002-6808-3776
@@ -443,5 +443,5 @@
   - Billur Akkaya
   publisher: Frontiers in Immunology
   date: '2022-09-30'
-  image: https://www.frontiersin.org/files/Articles/940052/fimmu-13-940052-HTML-r1/image_m/fimmu-13-940052-g001.jpg
+  image: ../images/article/24.webp
   link: https://doi.org/10.3389/fimmu.2022.940052
