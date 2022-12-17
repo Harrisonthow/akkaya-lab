@@ -114,8 +114,23 @@ Meet the researchers at the Akkaya Lab!
 {% endcapture %}
 
 {%
-  include feature.html
-  image="images/lab.webp"
+  include response.html
+  sizes="(max-width: 3000px) 100vw, 3000px"
+  srcset="
+		images/homepage/lab/lab_xai1j5_c_scale,w_300.webp 300w,
+    images/homepage/lab/lab_xai1j5_c_scale,w_867.webp 867w,
+    images/homepage/lab/lab_xai1j5_c_scale,w_1293.webp 1293w,
+    images/homepage/lab/lab_xai1j5_c_scale,w_1559.webp 1559w,
+    images/homepage/lab/lab_xai1j5_c_scale,w_1727.webp 1727w,
+    images/homepage/lab/lab_xai1j5_c_scale,w_1941.webp 1941w,
+    images/homepage/lab/lab_xai1j5_c_scale,w_2138.webp 2138w,
+    images/homepage/lab/lab_xai1j5_c_scale,w_2733.webp 2733w,
+    images/homepage/lab/lab_xai1j5_c_scale,w_2684.webp 2684w,
+    images/homepage/lab/lab_xai1j5_c_scale,w_2713.webp 2713w,
+    images/homepage/lab/lab_xai1j5_c_scale,w_2850.webp 2850w,
+    images/homepage/lab/lab_xai1j5_c_scale,w_2983.webp 2983w,
+    images/homepage/lab/lab_xai1j5_c_scale,w_2999.webp 2999w,
+    images/homepage/lab/lab_xai1j5_c_scale,w_3000.webp 3000w"
   link="/team"
   title="Team"
   flip=true
