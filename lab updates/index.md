@@ -19,7 +19,7 @@ nav:
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
-<a class="twitter-timeline" href="https://twitter.com/akkayalab?ref_src=twsrc%5Etfw">Tweets from the Akkaya Lab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="600" href="https://twitter.com/akkayalab?ref_src=twsrc%5Etfw">Tweets from the Akkaya Lab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
 
 <a href="https://twitter.com/akkayalab?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @akkayalab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
