@@ -115,7 +115,7 @@ Meet the researchers at the Akkaya Lab!
 
 {%
   include response.html
-  sizes="(max-width: 3000px) 100vw, 3000px"
+  sizes="(min-width: 480px) 360px, calc(87.5vw - 43px)"
   srcset="
 		images/homepage/lab/lab_xai1j5_c_scale,w_300.webp 300w,
     images/homepage/lab/lab_xai1j5_c_scale,w_867.webp 867w,
