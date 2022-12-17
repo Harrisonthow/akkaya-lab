@@ -29,6 +29,23 @@ The Akkaya Lab is located at the Ohio State University and in split into two gro
 
 {% include banner.html image="images/banner.webp" %}
 
+{% 
+  include resbanner.html
+  sizes="(min-width: 480px) 360px, calc(87.5vw - 43px)"
+  srcset="
+		images/homepage/banner/banner_300.webp 300w,
+		images/homepage/banner/banner_839.webp 839w,
+		images/homepage/banner/banner_1138.webp 1138w,
+		images/homepage/banner/banner_1399.webp 1399w,
+		images/homepage/banner/banner_1669.webp 1669w,
+    images/homepage/banner/banner_1962.webp 1962w,
+    images/homepage/banner/banner_2244.webp 2244w,
+    images/homepage/banner/banner_2352.webp 2352w,
+    images/homepage/banner/banner_2400.webp 2400w
+	"
+  image="images/homepage/banner_2400.webp"
+%}
+
 {% include section.html %}
 
 # Highlights
