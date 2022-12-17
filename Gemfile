@@ -9,6 +9,7 @@ group :jekyll_plugins do
   gem "jekyll-redirect-from"
   gem "jekyll-feed"
   gem "jekyll-sitemap"
+  gem "jekyll-responsive-image"
 
   # other potentially useful plugins
   # gem "jekyll-github-metadata"
