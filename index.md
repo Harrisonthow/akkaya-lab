@@ -39,7 +39,7 @@ Autoimmune disorders and cancer are among leading causes of chronic disease and 
 {%
   include link.html
   link="/t-cell"
-  text="Learn More"
+  text="To the T-Cell side"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -61,7 +61,7 @@ Vaccines have had the greatest impact on human health of all interventions. All 
 {%
   include link.html
   link="/b-cell"
-  text="Learn More"
+  text="To the B-Cell side"
   icon="fas fa-arrow-right"
   flip=true
 %}
