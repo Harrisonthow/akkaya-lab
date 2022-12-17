@@ -72,11 +72,11 @@ Vaccines have had the greatest impact on human health of all interventions. All 
   include response.html
   sizes="(min-width: 480px) 360px, calc(87.5vw - 43px)"
   srcset="
-		images/bcell/bcell_1400.webp 200w,
-		images/bcell/bcell_1400.webp 507w,
-		images/bcell/bcell_1400.webp 840w,
-		images/bcell/bcell_1400.webp 1154w,
-		images/bcell/bcell_1400.webp 1400w
+		images/bcell/bcell_.webp 200,
+		images/bcell/bcell_.webp 507,
+		images/bcell/bcell_.webp 840,
+		images/bcell/bcell_.webp 1154,
+		images/bcell/bcell_.webp 1400
 	"
   image="images/BCell/BCell_1400.webp"
   link="/b-cell"
