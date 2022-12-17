@@ -131,6 +131,7 @@ Meet the researchers at the Akkaya Lab!
     images/homepage/lab/lab_xai1j5_c_scale,w_2983.webp 2983w,
     images/homepage/lab/lab_xai1j5_c_scale,w_2999.webp 2999w,
     images/homepage/lab/lab_xai1j5_c_scale,w_3000.webp 3000w"
+  image="images/homepage/lab/lab_xai1j5_c_scale,w_3000.webp"
   link="/team"
   title="Team"
   flip=true
