@@ -3,7 +3,7 @@
       {% if include.link %}href="{{ include.link | relative_url }}"{% endif %}
       class="feature_image"
     >
-    <img sizes="" src="/{{ path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }}">
+    <img sizes="" src="{{ path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }}">
     </a>
     <div class="feature_text">
       {%- if include.title -%}
