@@ -59,6 +59,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-responsive-image
   # - jekyll-github-metadata
   # - jekyll-avatar
   # - jekyll-gist
