@@ -4,8 +4,8 @@
 title: Akkaya Lab
 description: In Immune System We Trust!
 logo: images/logo.svg
-header: harrisonthow.co.uk/images/akkaya.jpg
-footer: images/akkaya.jpg
+header: https://www.harrisonthow.co.uk/images/akkaya.jpg
+footer: https://www.harrisonthow.co.uk/images/akkaya.jpg
 baseurl: /akkaya-lab
 
 # site social media and other links
