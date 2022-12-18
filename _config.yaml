@@ -6,7 +6,7 @@ description: In Immune System We Trust!
 logo: images/logo.svg
 header: images/akkayatop.jpg
 footer: images/akkayabottom.jpg
-baseurl: 
+baseurl: ""
 
 # site social media and other links
 links:
