@@ -5,7 +5,7 @@ nav:
   tooltip: Updates and Awards from the Akkaya Lab
 ---
 
-# <i class="fas fa-feather-alt"></i>Blog
+# <i class="fas fa-feather-alt"></i>Lab Updates
 
 {% include section.html %}
 
