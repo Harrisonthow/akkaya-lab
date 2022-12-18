@@ -1,6 +1,11 @@
 ---
 title: Home
-##Note the Images for the T and B Cells are copyrighted and a license must be bought prior to web deployment
+carousels:
+  - images: 
+    - image: /images/akkaya.jpg
+    - image: /images/christmas.jpg
+    - image: /images/akkayatop.jpg
+    - image: /images/akkayabottom.jpg
 ---
 
 # In immune system we trust!
@@ -28,6 +33,7 @@ The Akkaya Lab is located at the Ohio State University and in split into two gro
 {% include section.html full=true %}
 
 {% include banner.html image="images/banner.webp" %}
+{% include carousel.html width="100" unit="%" duration="7" number="1" %}
 
 {% include section.html %}
 
