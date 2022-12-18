@@ -11,7 +11,7 @@
   {%- assign dark = true -%}
 {%- endif -%}
 
-<footer background-image: url('images/akkayabottom.jpg');>
+<footer {% if background %}class="background"{% endif %} {% if background %}style="--background: url('{{ background | relative_url }}')"{% endif %} data-dark="{{ dark }}">
 
   <!--
   <div class="footer_row">
