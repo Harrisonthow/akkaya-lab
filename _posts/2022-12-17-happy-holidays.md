@@ -1,6 +1,6 @@
 ---
 title: Happy holidays from the Akkaya Lab!
-tags: "Outside the lab, Holidays"
+tags: Extras, Holidays
 author: Admin
 member: harrison
 ---

@@ -1,6 +1,6 @@
 ---
 title: Exhaust the Exhausters out now!
-tags: "TRegs, Tumors, New Article"
+tags: TRegs, Tumors, Articles
 author: Admin
 member: harrison
 ---
