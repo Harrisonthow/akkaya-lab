@@ -11,7 +11,8 @@ carousels:
 
 # In immune system we trust!
 
-The Akkaya Lab is located at the Ohio State University and in split into two groups: The T-Cell side run by [Dr. Billur Akkaya](members/billur.html), and the B-Cell side run by [Dr. Munir Akkaya](members/munir.html).
+
+The Akkaya lab combines the efforts of [Billur Akkaya, MD, DPhil](members/billur.html) and [Munir Akkaya, MD, DPhil](members/munir.html). The wife-and-husband team worked together at the National Institutes of Health. Since 2021, Drs Billur and Munir Akkaya have been working at the Ohio State University Wexner Medical Center. Billur works in the T cell lab, and works to uncover specific targets for precision therapies in the treatment of autoimmune disorders and cancers. Munir's research follows the interactions between different B cell activation modalities and how these signals collectively determine B cell fates. 
 
 {%
   include link.html
