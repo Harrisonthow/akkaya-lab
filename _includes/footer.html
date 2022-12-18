@@ -1,17 +1,4 @@
-{%- assign background = page.footer | default: site.footer | default: "none" -%}
-{%- if background == "none" -%}
-  {%- assign background = nil -%}
-{%- endif -%}
-
-{%- assign dark = page.footer-dark -%}
-{%- if dark == nil -%}
-  {%- assign dark = site.footer-dark -%}
-{%- endif -%}
-{%- if dark == nil -%}
-  {%- assign dark = true -%}
-{%- endif -%}
-
-<footer {% if background %}class="background"{% endif %} {% if background %}style="--background: url('{{ background | relative_url }}')"{% endif %} data-dark="{{ dark }}">
+<footer class="background" style="--background: url('{{/images/akkayabottom.webp}}')" data-dark="{{ dark }}">
 
   <!--
   <div class="footer_row">
