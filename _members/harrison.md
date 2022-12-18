@@ -3,8 +3,8 @@ name: Harrison Thow
 image: images/members/harrison.webp
 role: undergrad
 links:
-    email: thow.3@osu.edu
     linkedin: harrison-g-thow
+    email: thow.3@osu.edu
     phone: 832-727-5069
     link: https://www.harrisonthow.co.uk/
 ---
