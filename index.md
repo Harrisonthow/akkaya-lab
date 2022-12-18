@@ -2,10 +2,11 @@
 title: Home
 carousels:
   - images: 
-    - image: /images/akkaya.jpg
-    - image: /images/christmas.jpg
-    - image: /images/akkayatop.jpg
-    - image: /images/akkayabottom.jpg
+    - image: /images/carousel/akkaya.jpg
+    - image: /images/carousel/christmas.jpg
+    - image: /images/carousel/wex.jpg
+    - image: /images/carousel/lab.jpg
+    - image: /images/carousel/dodd.jpg
 ---
 
 # In immune system we trust!
@@ -33,7 +34,7 @@ The Akkaya Lab is located at the Ohio State University and in split into two gro
 {% include section.html full=true %}
 
 {% include banner.html image="images/banner.webp" %}
-{% include carousel.html height="15" unit="%" duration="7" number="1" %}
+{% include carousel.html height="25" unit="%" duration="7" number="1" %}
 
 {% include section.html %}
 
