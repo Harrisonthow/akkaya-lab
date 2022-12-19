@@ -11,28 +11,70 @@
   {%- assign dark = true -%}
 {%- endif -%}
 
-
-<header {% if background %}class="background"{% endif %} {% if background %}style="--background: url('https://raw.githubusercontent.com/Harrisonthow/akkaya-lab/main/images/akkayatop.webp')"{% endif %} data-dark="true">  <a
-    href="{{ '/' | relative_url }}"
-    class="logo_row"
-    data-tooltip="Home"
-  >
-    <img src="{{ site.logo | relative_url }}" class="logo" alt="Logo image" />
-    {% if site.logo-text != false %}
-      <span class="logo_text">
-        <span class="logo_title">{{ site.title }}</span>
-        {% if site.subtitle %}
-          <span class="logo_subtitle">{{ site.subtitle }}</span>
-        {% endif %}
-      </span>
-    {% endif %}
-  </a>
-  <nav class="nav_row">
-    {%- assign pages = site.pages | where_exp: "page", "page.nav" | sort: "nav.order" -%}
-    {%- for page in pages -%}
-      {%- if page.nav -%}
-        {%- include link.html type="link" text=page.title tooltip=page.nav.tooltip link=page.dir -%}
-      {%- endif -%}
-    {%- endfor -%}
+<div class="mobile-layout">
+  <header>
+  <nav>
+    <a class="site-title" href="">Site Title</a>
+    <input type="checkbox" id="main-nav" class="main-nav">
+    <label for="main-nav" id="toggle-menu">Menu
+      <div class="hamburger">
+        <span class="bar bar1"></span>
+        <span class="bar bar2"></span>
+        <span class="bar bar3"></span>
+        <span class="bar bar4"></span>
+      </div>
+    </label>
+    <ul class="first-level-nav">
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Cakes & Bakes</a></li>
+      <li><a href="#">Food & Drink</a></li>
+      <li><a href="#">Our Menu</a></li>
+      <li>
+        <a href="#">Cookery Classes</a>
+        <input type="checkbox" id="sub-nav-1" class="sub-nav-1">
+        <label for="sub-nav-1" id="toggle-menu">
+          <div class="hamburger">
+            <span class="bar bar1"></span>
+            <span class="bar bar2"></span>
+            <span class="bar bar3"></span>
+            <span class="bar bar4"></span>
+          </div>
+        </label>
+        <ul class="second-level-nav">
+          <li><a href="#">Introduction to real bread baking</a></li>
+          <li><a href="#">Pasta Fresca - The joy of handmade pasta</a></li>
+        </ul>
+      </li>
+      <li><a href="#">Store & Post Office</a></li>
+      <li><a href="#">News</a></li>
+    </ul>
   </nav>
 </header>
+</div>
+
+<div class="desktop-layout">
+  <header {% if background %}class="background"{% endif %} {% if background %}style="--background: url('https://raw.githubusercontent.com/Harrisonthow/akkaya-lab/main/images/akkayatop.webp')"{% endif %} data-dark="true">  <a
+      href="{{ '/' | relative_url }}"
+      class="logo_row"
+      data-tooltip="Home"
+    >
+      <img src="{{ site.logo | relative_url }}" class="logo" alt="Logo image" />
+      {% if site.logo-text != false %}
+        <span class="logo_text">
+          <span class="logo_title">{{ site.title }}</span>
+          {% if site.subtitle %}
+            <span class="logo_subtitle">{{ site.subtitle }}</span>
+          {% endif %}
+        </span>
+      {% endif %}
+    </a>
+    <nav class="nav_row">
+      {%- assign pages = site.pages | where_exp: "page", "page.nav" | sort: "nav.order" -%}
+      {%- for page in pages -%}
+        {%- if page.nav -%}
+          {%- include link.html type="link" text=page.title tooltip=page.nav.tooltip link=page.dir -%}
+        {%- endif -%}
+      {%- endfor -%}
+    </nav>
+  </header>
+</div>
