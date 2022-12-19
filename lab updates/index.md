@@ -1,7 +1,7 @@
 ---
 title: Lab Updates
 nav:
-  order: 6
+  order: 5
   tooltip: Updates and Awards from the Akkaya Lab
 ---
 
