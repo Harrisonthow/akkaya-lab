@@ -104,9 +104,8 @@ header {
       .link {
         width: 100%;
       }
-    }
-  }
-    /* HAMBURGER */
+
+          /* HAMBURGER */
   .hamburger {
     margin: 0 auto;
     // margin-top: 30px;
@@ -225,3 +224,6 @@ nav {
 .sub-nav-1:checked ~ .second-level-nav {
   display:block;
 }
+
+    }
+  }
