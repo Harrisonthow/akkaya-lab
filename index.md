@@ -2,11 +2,11 @@
 title: Home
 carousels:
   - images: 
-    - image: /images/carousel/akkaya.jpg
-    - image: /images/carousel/christmas.jpg
-    - image: /images/carousel/wex.jpg
-    - image: /images/carousel/lab.jpg
-    - image: /images/carousel/dodd.jpg
+    - image: /images/carousel/akkaya.webp
+    - image: /images/carousel/christmas.webp
+    - image: /images/carousel/wex.webp
+    - image: /images/carousel/lab.webp
+    - image: /images/carousel/dodd.webp
 ---
 
 # In immune system we trust!
@@ -57,7 +57,7 @@ Autoimmune disorders and cancer are among leading causes of chronic disease and 
 
 {%
   include feature.html
-  image="images/TCell.webp"
+  image="images/home/TCell.webp"
   link="/t-cell"
   title="T-Cell Side"
   flip=true
@@ -79,7 +79,7 @@ Vaccines have had the greatest impact on human health of all interventions. All 
 
 {%
   include feature.html
-  image="images/BCell.webp"
+  image="images/home/BCell.webp"
   link="/b-cell"
   title="B-Cell Side"
   text=text
@@ -101,7 +101,7 @@ Meet the researchers at the Akkaya Lab!
 
 {%
   include feature.html
-  image="images/lab.webp"
+  image="images/home/lab.webp"
   link="/team"
   title="Team"
   flip=true
