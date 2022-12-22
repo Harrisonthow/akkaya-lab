@@ -41,14 +41,14 @@ Columbus, OH 43210
 {% capture col1 %}
 {%
   include figure.html
-  image="images/BRT.webp"
+  image="images/contact/BRT.webp"
   caption="The Biomedical Research Tower"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/CoM.webp"
+  image="images/contact/CoM.webp"
   caption="The Ohio State University College of Medicine"
 %}
 
@@ -102,14 +102,14 @@ Columbus, OH 43210
 {% capture col1 %}
 {%
   include figure.html
-  image="images/dodd.webp"
+  image="images/contact/dodd.webp"
   caption="The Dodd Rehabilitation Hospital"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/CoM.webp"
+  image="images/contact/CoM.webp"
   caption="The Ohio State University College of Medicine"
 %}
 
