@@ -22,3 +22,13 @@ This project aims to elucidate the signals provided to Tregs via antigen mediate
 In this project we explore whether pMHCII capture renders antigen-specific Tregs an atypical group of APCs that are capable of inducing T cell tolerance. We focus on the events after Treg-APC synapse and investigate whether capturing pMHCII containing DC membrane equips Tregs with the unique ability to target helper T cells during the physical absence of the DCs. We perform live confocal and intravital two-photon microscopy imaging as well as flow cytometry 1) to quantify direct contact between Tregs and helper T cells post-pMHCII acquisition 2) to determine modes of paracrine communication. Altogether, the findings from this project will describe how the Treg-T cell interactions shape peripheral tolerance and what mechanisms additional to pMHCII depletion are in place to prevent autoimmunity and also to promote tumor development.
 
 The outcome of these studies will provide the basis for how self-reactivity is dampened by antigen-specific Tregs, thus constituting a springboard for the precision therapies against autoimmunity and cancer.
+
+# Video Highlights
+
+<video autoplay loop muted playsinline>
+  <source src="../images/TCell/video1.webm" type="video/webm" />
+</video>
+
+<video autoplay loop muted playsinline>
+  <source src="../images/TCell/video2.webm" type="video/webm" />
+</video>
