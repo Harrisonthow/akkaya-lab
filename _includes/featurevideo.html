@@ -1,0 +1,16 @@
+<div class="feature" {% if include.flip %}data-flip="true"{% endif %}>
+  <a 
+    {% if include.link %}href="{{ include.link | relative_url }}"{% endif %}
+    class="feature_image"
+  >
+    <video
+      src="{{ include.video | relative_url }}"
+    />
+  </a>
+  <div class="feature_text">
+    {%- if include.title -%}
+      <p class="feature_title">{{ include.title }}</p>
+    {%- endif -%}
+    {{ include.text | markdownify }}
+  </div>
+</div>
