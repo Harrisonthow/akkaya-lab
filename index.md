@@ -78,11 +78,8 @@ Vaccines have had the greatest impact on human health of all interventions. All 
 {% endcapture %}
 
 {%
-  include feature.html
-  image="images/home/BCell.webp"
-  link="/b-cell"
-  title="B-Cell Side"
-  text=text
+  include featurevideo.html
+  image="images/home/ezgif.com-gif-maker.webm"
 %}
 
 
