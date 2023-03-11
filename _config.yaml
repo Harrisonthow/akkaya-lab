@@ -19,6 +19,9 @@ links:
 # automatic citations
 auto-cite:
   plugins:
+    - name: sources
+      input:
+      - ../_data/sources.yaml
     - name: orcid
       input:
         - ../_data/orcid.yaml
