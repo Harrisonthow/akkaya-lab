@@ -131,23 +131,6 @@
   date: '2018-02-23'
   link: https://doi.org/gc7xs3
   _cache: 5500d6d4d1fd859222face28107ed079eff6a79db8a4b8ee979b23a781a071b5
-- id: doi:10.1002/eji.201747113
-  title: T cell-dependent antigen adjuvanted with DOTAP-CpG-B but not DOTAP-CpG-A
-    induces robust germinal center responses and high affinity antibodies in mice
-  authors:
-  - Munir Akkaya
-  - Billur Akkaya
-  - Patrick W. Sheehan
-  - Pietro Miozzo
-  - Mirna Pena
-  - Chen-Feng Qi
-  - Javier Manzella-Lapeira
-  - Silvia Bolland
-  - Susan K. Pierce
-  publisher: European Journal of Immunology
-  date: '2017-08-21'
-  link: https://doi.org/gq5442
-  _cache: 38708a3ce48368e192e5e443627fd72ccd2249272bc4e8a74710192ab9326b06
 - id: doi:10.4049/jimmunol.1700348
   title: B Cells Produce Type 1 IFNs in Response to the TLR9 Agonist CpG-A Conjugated
     to Cationic Lipids
@@ -168,21 +151,6 @@
   date: '2017-06-26'
   link: https://doi.org/gbq8wj
   _cache: 811d36e549d5da8dbde1ea7e1bf563d5134ba813aac8928a1c2c4a946d790de4
-- id: doi:10.1016/j.jim.2016.11.013
-  title: 'Ex-vivo iTreg differentiation revisited: Convenient alternatives to existing
-    strategies'
-  authors:
-  - Billur Akkaya
-  - Amanda H. Holstein
-  - Christopher Isaac
-  - Mitra P. Maz
-  - Deborah D. Glass
-  - Ethan M. Shevach
-  - Munir Akkaya
-  publisher: Journal of Immunological Methods
-  date: '2017-02-01'
-  link: https://doi.org/gq5443
-  _cache: 695f1dadb9f440441f58cec488d14ac10ff09f602665f5c6fb13ac0aac8624d3
 - id: doi:10.1099/jgv.0.000335
   title: Herpesvirus orthologues of CD200 bind host CD200R but not related activating
     receptors
@@ -289,17 +257,6 @@
   date: '2015-10-05'
   link: https://doi.org/f7vrmk
   _cache: df9769151681c6df3394f395881b7e924cc732bac33694734bd19bcee5398dc9
-- id: doi:10.1371/journal.pone.0063325
-  title: Dissection of Agonistic and Blocking Effects of CD200 Receptor Antibodies
-  authors:
-  - Munir Akkaya
-  - Marie-Laure Aknin
-  - Billur Akkaya
-  - A. Neil Barclay
-  publisher: PLoS ONE
-  date: '2013-05-14'
-  link: https://doi.org/f4w38t
-  _cache: 016b15c6110fc407a199d4dfa477abb606f0cf856bf82f1fc474fc594fd5dd6f
 - id: doi:10.1002/eji.201242896
   title: How do pathogens drive the evolution of paired receptors?
   authors:
@@ -440,3 +397,21 @@
   date: '2021-01-01'
   link: https://doi.org/gq6hgs
   _cache: d91567fcbb4f7ff5ffbca75588687158fd25abe6633e202886b9a153f5dd29e7
+  id: doi:10.1128/mbio.03391-22
+  title: "Cerebral Malaria Is Regulated by Host-Mediated Changes in <i>Plasmodium</i> Gene Expression"
+  authors:
+  - Clare K. Cimperman
+  - Mirna Pena
+  - Sohret M. Gokcek
+  - Brandon P. Theall
+  - Meha V. Patel
+  - Anisha Sharma
+  - ChenFeng Qi
+  - Daniel Sturdevant
+  - Louis H. Miller
+  - Patrick L. Collins
+  - Susan K. Pierce
+  - Munir Akkaya
+  publisher: mBio
+  date: '2023-02-28'
+  link: https://doi.org/10.1128/mbio.03391-22
